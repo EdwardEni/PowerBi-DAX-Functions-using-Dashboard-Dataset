@@ -1,0 +1,1399 @@
+﻿Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Unit Price,COGS,Order Date,Sales 
+Channel Partners,Germany,Carretera,Medium,1580,3,12,4740,05/01/2009,18960
+Enterprise,Mexico,Paseo,Low,1138,10,125,136560,06/01/2009,142250
+Midmarket,France,Paseo,Low,2261,10,15,22610,11/01/2009,33915
+Channel Partners,Germany,Carretera,Low,766,3,12,2298,15/01/2009,9192
+Small Business,Mexico,Carretera,Low,494,3,300,123500,15/01/2009,148200
+Midmarket,Canada,VTT,Medium,2844,250,15,28440,16/01/2009,42660
+Government,Mexico,VTT,Medium,1498,250,7,7490,16/01/2009,10486
+Government,Canada,Paseo,Low,2852,10,350,741520,17/01/2009,998200
+Enterprise,Canada,Paseo,Low,2729,10,125,327480,17/01/2009,341125
+Government,France,Paseo,High,293,10,20,2930,18/01/2009,5860
+Channel Partners,Mexico,Velo,High,604,120,12,1812,24/01/2009,7248
+Midmarket,Germany,Velo,High,660,120,15,6600,24/01/2009,9900
+Channel Partners,United States of America,Amarilla,None,2141,260,12,6423,30/01/2009,25692
+Government,Canada,Paseo,Low,4251,10,7,21255,30/01/2009,29757
+Small Business,France,Paseo,Medium,448,10,300,112000,30/01/2009,134400
+Government,Germany,Montana,High,766,5,350,199160,01/02/2009,268100
+Government,United States of America,Montana,High,2996,5,7,14980,01/02/2009,20972
+Small Business,France,Montana,High,1773,5,300,443250,02/02/2009,531900
+Government,Mexico,Montana,High,2420,5,7,12100,02/02/2009,16940
+Government,France,Amarilla,High,1731,260,7,8655,04/02/2009,12117
+Government,Mexico,Amarilla,High,1727,260,7,8635,04/02/2009,12089
+Small Business,Mexico,Montana,High,546,5,300,136500,15/02/2009,163800
+Government,Germany,Paseo,High,1158,10,20,11580,15/02/2009,23160
+Midmarket,Canada,Paseo,High,1614,10,15,16140,15/02/2009,24210
+Enterprise,Germany,Montana,Low,1706,5,125,204720,18/02/2009,213250
+Small Business,France,Paseo,Low,2435,10,300,608625,18/02/2009,730350
+Government,France,VTT,Medium,2682,250,20,26820,20/02/2009,53640
+Government,Mexico,VTT,Medium,521,250,7,2605,20/02/2009,3647
+Government,France,Velo,High,639,120,350,166140,21/02/2009,223650
+Enterprise,United States of America,Velo,High,1596,120,125,191520,21/02/2009,199500
+Government,Canada,Montana,Medium,488,5,7,2440,27/02/2009,3416
+Government,Canada,VTT,High,623,250,350,161980,01/03/2009,218050
+Enterprise,Mexico,Paseo,Medium,1114,10,125,133680,02/03/2009,139250
+Enterprise,Mexico,Paseo,Low,2145,10,125,257400,03/03/2009,268125
+Small Business,Germany,VTT,Low,986,250,300,246500,04/03/2009,295800
+Enterprise,Canada,Carretera,High,2416,3,125,289920,05/03/2009,302000
+Enterprise,Mexico,Carretera,High,2156,3,125,258720,05/03/2009,269500
+Enterprise,United States of America,Paseo,Medium,2797,10,125,335640,06/03/2009,349625
+Midmarket,France,VTT,High,2167,250,15,21670,09/03/2009,32505
+Small Business,United States of America,Paseo,Medium,991,10,300,247750,11/03/2009,297300
+Government,United States of America,Paseo,Medium,602,10,350,156520,11/03/2009,210700
+Midmarket,France,Paseo,Medium,2620,10,15,26200,11/03/2009,39300
+Midmarket,France,Montana,Medium,2501,5,15,25010,13/03/2009,37515
+Midmarket,France,Velo,High,2826,120,15,28260,19/03/2009,42390
+Enterprise,France,Velo,High,663,120,125,79560,19/03/2009,82875
+Small Business,United States of America,Velo,High,2574,120,300,643500,19/03/2009,772200
+Government,United States of America,Carretera,Low,2529,3,7,12645,20/03/2009,17703
+Government,Canada,Paseo,High,2428,10,20,24280,27/03/2009,48560
+Midmarket,United States of America,Paseo,High,1767,10,15,17670,27/03/2009,26505
+Channel Partners,France,Paseo,High,1393,10,12,4179,27/03/2009,16716
+Government,Germany,VTT,High,280,250,7,1400,27/03/2009,1960
+Government,Canada,Amarilla,High,2240,260,350,582400,29/03/2009,784000
+Government,Germany,Amarilla,Medium,1520,260,20,15200,31/03/2009,30400
+Small Business,Canada,Paseo,High,1366,10,300,341500,06/04/2009,409800
+Government,Mexico,Paseo,High,1122,10,20,11220,07/04/2009,22440
+Government,Mexico,Paseo,High,1233,10,20,12330,22/04/2009,24660
+Small Business,Mexico,Velo,Medium,635,120,300,158750,27/04/2009,190500
+Channel Partners,United States of America,Montana,Medium,2723,5,12,8169,01/05/2009,32676
+Midmarket,Germany,VTT,High,1175,250,15,11750,06/05/2009,17625
+Enterprise,Canada,VTT,High,2954,250,125,354480,06/05/2009,369250
+Midmarket,France,Amarilla,High,2072,260,15,20720,18/05/2009,31080
+Government,France,Carretera,High,1790,3,350,465400,27/05/2009,626500
+Midmarket,Canada,Paseo,Low,218,10,15,2180,29/05/2009,3270
+Government,Mexico,Paseo,Medium,2993,10,20,29930,30/05/2009,59860
+Channel Partners,United States of America,VTT,Medium,1956,250,12,5868,30/05/2009,23472
+Channel Partners,Germany,VTT,Low,2479,250,12,7437,07/06/2009,29748
+Midmarket,Mexico,Montana,High,2157,5,15,21570,20/06/2009,32355
+Small Business,Mexico,Paseo,Medium,1607,10,300,401750,21/06/2009,482100
+Small Business,United States of America,VTT,Low,2844,250,300,711000,22/06/2009,853200
+Government,United States of America,VTT,High,986,250,350,256360,24/06/2009,345100
+Enterprise,United States of America,VTT,High,2387,250,125,286440,24/06/2009,298375
+Small Business,Mexico,Carretera,High,801,3,300,200250,01/07/2009,240300
+Government,France,VTT,Medium,2487,250,7,12435,02/07/2009,17409
+Government,Germany,Amarilla,Medium,1350,260,350,351000,02/07/2009,472500
+Government,Canada,Carretera,High,923,3,350,239980,03/07/2009,323050
+Government,Germany,Montana,Medium,645,5,20,6450,07/07/2009,12900
+Government,Germany,Paseo,Medium,1366,10,20,13660,13/07/2009,27320
+Government,United States of America,Carretera,High,1743,3,20,17430,15/07/2009,34860
+Government,United States of America,Carretera,High,2996,3,7,14980,15/07/2009,20972
+Government,Germany,Carretera,High,280,3,7,1400,15/07/2009,1960
+Government,United States of America,Velo,Low,1566,120,20,15660,16/07/2009,31320
+Government,France,Montana,Low,544,5,7,2720,22/07/2009,3808
+Midmarket,Mexico,Montana,Low,2031,5,15,20310,27/07/2009,30465
+Small Business,Mexico,Amarilla,Medium,2460,260,300,615000,27/07/2009,738000
+Midmarket,United States of America,Amarilla,Low,671,260,15,6710,02/08/2009,10065
+Enterprise,France,Carretera,High,1482,3,125,177840,02/08/2009,185250
+Enterprise,United States of America,Montana,High,1804,5,125,216480,02/08/2009,225500
+Small Business,Mexico,Paseo,High,2150,10,300,537500,04/08/2009,645000
+Small Business,Germany,Carretera,Low,2021,3,300,505250,05/08/2009,606300
+Small Business,Germany,Paseo,Low,1415,10,300,353625,10/08/2009,424350
+Government,France,Paseo,Low,1030,10,7,5150,12/08/2009,7210
+Government,France,Velo,Low,639,120,7,3195,12/08/2009,4473
+Government,Canada,Velo,Medium,1582,120,7,7910,15/08/2009,11074
+Channel Partners,France,VTT,Medium,1739,250,12,5215.5,15/08/2009,20862
+Channel Partners,Germany,VTT,Medium,2215,250,12,6645,15/08/2009,26580
+Small Business,Mexico,VTT,Low,494,250,300,123500,18/08/2009,148200
+Channel Partners,Canada,Carretera,Medium,1884,3,12,5652,20/08/2009,22608
+Government,Mexico,Carretera,Medium,1834,3,20,18340,20/08/2009,36680
+Channel Partners,Mexico,Montana,Medium,2340,5,12,7020,20/08/2009,28080
+Government,United States of America,Carretera,Medium,263,3,7,1315,24/08/2009,1841
+Small Business,Germany,Velo,Medium,1250,120,300,312500,26/08/2009,375000
+Government,Canada,Montana,High,2734,5,7,13670,26/08/2009,19138
+Small Business,Mexico,Amarilla,Low,1101,260,300,275250,27/08/2009,330300
+Government,Canada,Paseo,Medium,1802,10,20,18020,01/09/2009,36040
+Small Business,Mexico,Montana,Medium,1100,5,300,275000,04/09/2009,330000
+Government,France,Paseo,Medium,1303,10,20,13030,04/09/2009,26060
+Enterprise,United States of America,Paseo,Medium,2992,10,125,359040,04/09/2009,374000
+Enterprise,France,Paseo,Medium,2385,10,125,286200,04/09/2009,298125
+Enterprise,United States of America,Velo,High,2438,120,125,292560,05/09/2009,304750
+Channel Partners,France,Paseo,Low,1055,10,12,3165,11/09/2009,12660
+Channel Partners,Mexico,Paseo,Low,1084,10,12,3252,11/09/2009,13008
+Government,Germany,Montana,High,1199,5,350,311740,15/09/2009,419650
+Enterprise,Canada,Velo,Low,2009,120,125,241080,16/09/2009,251125
+Small Business,Canada,Carretera,High,1496,3,300,374000,16/09/2009,448800
+Government,France,Velo,Medium,1579,120,20,15790,25/09/2009,31580
+Enterprise,United States of America,Velo,Medium,861,120,125,103320,25/09/2009,107625
+Government,Mexico,Amarilla,Medium,1038,260,20,10380,01/10/2009,20760
+Midmarket,France,VTT,High,3875,250,15,38745,02/10/2009,58117.5
+Government,Canada,VTT,Medium,1389,250,20,13890,08/10/2009,27780
+Enterprise,United States of America,Velo,None,2821,120,125,338520,09/10/2009,352625
+Enterprise,Canada,Velo,None,345,120,125,41400,09/10/2009,43125
+Small Business,Canada,VTT,None,2001,250,300,500250,09/10/2009,600300
+Midmarket,Germany,VTT,Low,1945,250,15,19450,09/10/2009,29175
+Government,Canada,Carretera,Low,831,3,20,8310,09/10/2009,16620
+Government,Mexico,Paseo,Low,1760,10,7,8800,09/10/2009,12320
+Government,Mexico,Paseo,High,2535,10,7,12675,11/10/2009,17745
+Government,Mexico,Carretera,Medium,1362,3,350,354120,15/10/2009,476700
+Enterprise,United States of America,Montana,Low,663,5,125,79560,17/10/2009,82875
+Small Business,France,Carretera,Medium,2181,3,300,545250,23/10/2009,654300
+Government,France,Montana,Medium,1976,5,20,19760,23/10/2009,39520
+Channel Partners,United States of America,Velo,High,914,120,12,2742,03/11/2009,10968
+Government,United States of America,Velo,Medium,1421,120,20,14210,08/11/2009,28420
+Small Business,Germany,Montana,Low,1859,5,300,464750,14/11/2009,557700
+Government,Canada,Montana,Low,2851,5,7,14255,14/11/2009,19957
+Small Business,Canada,Paseo,Medium,1094,10,300,273500,14/11/2009,328200
+Midmarket,France,Paseo,Medium,1227,10,15,12270,14/11/2009,18405
+Government,France,Velo,Low,3864,120,20,38640,17/11/2009,77280
+Small Business,France,Montana,High,1186,5,300,296500,19/11/2009,355800
+Small Business,United States of America,Paseo,High,3495,10,300,873750,19/11/2009,1048500
+Small Business,France,Paseo,Medium,1324,10,300,331000,23/11/2009,397200
+Government,France,Paseo,High,1922,10,350,499720,24/11/2009,672700
+Enterprise,Mexico,Velo,High,1575,120,125,189000,24/11/2009,196875
+Government,United States of America,Velo,High,606,120,20,6060,24/11/2009,12120
+Government,Canada,Paseo,None,292,10,20,2920,25/11/2009,5840
+Midmarket,France,Paseo,High,2167,10,15,21670,25/11/2009,32505
+Government,Germany,Paseo,High,241,10,20,2410,25/11/2009,4820
+Channel Partners,Mexico,Paseo,Medium,2763,10,12,8289,29/11/2009,33156
+Channel Partners,Mexico,VTT,High,1005,250,12,3015,02/12/2009,12060
+Channel Partners,Germany,VTT,Medium,880,250,12,2640,09/12/2009,10560
+Midmarket,Canada,Carretera,High,2689,3,15,26890,14/12/2009,40335
+Midmarket,United States of America,Montana,High,677,5,15,6770,14/12/2009,10155
+Small Business,France,Velo,High,853,120,300,213250,16/12/2009,255900
+Government,France,Paseo,High,2696,10,7,13480,19/12/2009,18872
+Midmarket,Canada,Paseo,High,1565,10,15,15650,19/12/2009,23475
+Midmarket,Canada,Paseo,High,2470,10,15,24700,22/12/2009,37050
+Midmarket,Canada,Montana,High,2300,5,15,23000,23/12/2009,34500
+Midmarket,Mexico,Amarilla,High,1870,260,15,18700,25/12/2009,28050
+Government,United States of America,Paseo,High,2007,10,350,521820,25/12/2009,702450
+Government,France,Velo,Medium,1033,120,20,10330,14/01/2010,20660
+Government,United States of America,Carretera,Medium,570,3,7,2850,16/01/2010,3990
+Government,Germany,VTT,Low,2877,250,350,748020,25/01/2010,1006950
+Enterprise,Canada,VTT,Low,2729,250,125,327480,25/01/2010,341125
+Government,United States of America,Paseo,Medium,2663,10,20,26630,26/01/2010,53260
+Government,France,Paseo,Medium,2136,10,7,10680,26/01/2010,14952
+Government,France,VTT,Medium,381,250,350,99060,02/02/2010,133350
+Government,Germany,VTT,Medium,422,250,350,109720,02/02/2010,147700
+Government,Germany,Velo,Medium,1001,120,20,10010,06/02/2010,20020
+Government,Mexico,Velo,Medium,1333,120,7,6665,06/02/2010,9331
+Midmarket,United States of America,VTT,Medium,1153,250,15,11530,06/02/2010,17295
+Government,Germany,Paseo,Medium,1598,10,7,7990,06/02/2010,11186
+Government,United States of America,Montana,High,2328,5,7,11640,06/02/2010,16296
+Channel Partners,France,Paseo,Low,1785,10,12,5355,09/02/2010,21420
+Small Business,Canada,Paseo,Low,1916,10,300,479000,09/02/2010,574800
+Midmarket,Germany,Velo,High,510,120,15,5100,16/02/2010,7650
+Government,France,Carretera,Low,2155,3,350,560300,18/02/2010,754250
+Government,Mexico,Montana,Medium,720,5,350,187200,21/02/2010,252000
+Channel Partners,Germany,Montana,None,1545,5,12,4635,26/02/2010,18540
+Small Business,France,Velo,Medium,1659,120,300,414750,26/02/2010,497700
+Government,Mexico,Velo,Medium,609,120,20,6090,26/02/2010,12180
+Enterprise,Germany,Velo,Medium,2087,120,125,250440,26/02/2010,260875
+Government,United States of America,Velo,Medium,547,120,7,2735,27/02/2010,3829
+Midmarket,Canada,Carretera,High,2300,3,15,23000,02/03/2010,34500
+Enterprise,Mexico,Carretera,High,2821,3,125,338520,02/03/2010,352625
+Government,Canada,Montana,High,2228,5,350,579150,02/03/2010,779625
+Midmarket,Germany,Amarilla,Medium,970,260,15,9700,05/03/2010,14550
+Government,Mexico,Amarilla,Medium,1694,260,20,16940,05/03/2010,33880
+Small Business,France,Velo,Medium,386,120,300,96500,07/03/2010,115800
+Government,France,VTT,None,1527,250,350,397020,08/03/2010,534450
+Government,Mexico,Paseo,None,883,10,7,4415,12/03/2010,6181
+Midmarket,France,Paseo,None,549,10,15,5490,12/03/2010,8235
+Government,Canada,Montana,Medium,708,5,20,7080,12/03/2010,14160
+Government,Mexico,Paseo,Medium,2417,10,350,628420,16/03/2010,845950
+Small Business,Mexico,Paseo,Medium,2460,10,300,615000,29/03/2010,738000
+Government,United States of America,Paseo,Medium,678,10,7,3390,29/03/2010,4746
+Small Business,France,Amarilla,High,2475,260,300,618750,29/03/2010,742500
+Small Business,Mexico,Amarilla,High,546,260,300,136500,29/03/2010,163800
+Midmarket,Mexico,Velo,Medium,2628,120,15,26280,31/03/2010,39420
+Small Business,United States of America,Paseo,Low,2918,10,300,729500,01/04/2010,875400
+Government,United States of America,Paseo,Low,3450,10,350,897000,01/04/2010,1207500
+Government,France,Velo,High,1190,120,7,5950,11/04/2010,8330
+Government,Canada,Carretera,Low,2852,3,350,741520,12/04/2010,998200
+Channel Partners,United States of America,Paseo,Low,1370,10,12,4108.5,15/04/2010,16434
+Enterprise,Canada,Paseo,Low,2009,10,125,241080,15/04/2010,251125
+Government,Mexico,Paseo,High,1197,10,350,311220,28/04/2010,418950
+Midmarket,Mexico,Paseo,High,380,10,15,3800,28/04/2010,5700
+Government,France,Paseo,Low,3945,10,7,19725,29/04/2010,27615
+Small Business,Canada,Paseo,High,873,10,300,218250,03/05/2010,261900
+Enterprise,Canada,Amarilla,High,1659,260,125,199080,05/05/2010,207375
+Government,France,Amarilla,High,1190,260,7,5950,05/05/2010,8330
+Government,Germany,Paseo,Medium,1372,10,7,6860,06/05/2010,9604
+Government,Mexico,Amarilla,Medium,1679,260,350,436540,07/05/2010,587650
+Government,United States of America,VTT,Medium,437,250,20,4365,07/05/2010,8730
+Small Business,Canada,Carretera,Medium,1094,3,300,273500,07/05/2010,328200
+Enterprise,Mexico,VTT,High,341,250,125,40920,07/05/2010,42625
+Government,Germany,Montana,Low,1797,5,350,467220,09/05/2010,628950
+Enterprise,France,Montana,Low,1287,5,125,154440,09/05/2010,160875
+Midmarket,France,Velo,High,3998,120,15,39975,12/05/2010,59962.5
+Government,Canada,Velo,High,2632,120,350,684320,12/05/2010,921200
+Government,United States of America,Paseo,Low,1056,10,20,10560,18/05/2010,21120
+Government,Canada,Amarilla,Medium,708,260,20,7080,19/05/2010,14160
+Government,United States of America,Amarilla,Medium,2907,260,7,14535,19/05/2010,20349
+Government,Germany,Amarilla,Medium,1366,260,20,13660,19/05/2010,27320
+Channel Partners,Germany,Velo,High,472,120,12,1416,20/05/2010,5664
+Government,United States of America,VTT,High,1579,250,7,7895,20/05/2010,11053
+Government,Canada,Amarilla,High,2734,260,7,13670,21/05/2010,19138
+Enterprise,Mexico,Velo,Medium,2110,120,125,253200,25/05/2010,263750
+Government,Canada,Velo,Medium,1269,120,350,329940,25/05/2010,444150
+Midmarket,United States of America,Amarilla,High,3200,260,15,31995,01/06/2010,47992.5
+Government,Mexico,Carretera,Low,1397,3,350,363220,04/06/2010,488950
+Government,United States of America,Montana,High,2313,5,350,601380,05/06/2010,809550
+Government,United States of America,Montana,Medium,1282,5,20,12820,07/06/2010,25640
+Small Business,United States of America,Montana,Low,2498,5,300,624500,08/06/2010,749400
+Small Business,Canada,Paseo,Medium,1404,10,300,351000,08/06/2010,421200
+Small Business,France,Montana,Medium,2181,5,300,545250,09/06/2010,654300
+Channel Partners,France,Montana,Medium,2342,5,12,7026,14/06/2010,28104
+Government,France,Paseo,Medium,1031,10,7,5155,14/06/2010,7217
+Midmarket,Canada,Velo,Medium,1262,120,15,12620,14/06/2010,18930
+Government,Canada,Velo,Medium,1135,120,7,5675,14/06/2010,7945
+Enterprise,France,Carretera,High,2441,3,125,292920,17/06/2010,305125
+Midmarket,Canada,Carretera,High,1560,3,15,15600,17/06/2010,23400
+Enterprise,Mexico,Montana,Low,1660,5,125,199200,24/06/2010,207500
+Midmarket,Canada,Paseo,Low,2363,10,15,23630,24/06/2010,35445
+Small Business,United States of America,Carretera,Medium,991,3,300,247750,27/06/2010,297300
+Government,Germany,Carretera,Medium,1016,3,7,5080,27/06/2010,7112
+Small Business,Germany,Montana,Low,2021,5,300,505250,03/07/2010,606300
+Enterprise,Mexico,Montana,Low,1138,5,125,136560,03/07/2010,142250
+Government,United States of America,Velo,Medium,2907,120,7,14535,03/07/2010,20349
+Channel Partners,Germany,Paseo,Medium,1775,10,12,5325,10/07/2010,21300
+Channel Partners,Mexico,Carretera,Medium,562,3,12,1686,14/07/2010,6744
+Channel Partners,Canada,Carretera,Medium,2299,3,12,6897,14/07/2010,27588
+Government,Mexico,Paseo,High,886,10,350,230360,24/07/2010,310100
+Government,Mexico,Amarilla,Medium,1683,260,7,8415,29/07/2010,11781
+Channel Partners,Mexico,Amarilla,Medium,1123,260,12,3369,29/07/2010,13476
+Enterprise,France,Paseo,Low,2988,10,125,358560,31/07/2010,373500
+Enterprise,Canada,VTT,High,1583,250,125,189960,03/08/2010,197875
+Government,France,VTT,Low,2177,250,350,566020,04/08/2010,761950
+Midmarket,Mexico,VTT,Low,1514,250,15,15140,04/08/2010,22710
+Government,Mexico,Amarilla,Low,1865,260,350,484900,04/08/2010,652750
+Enterprise,Mexico,Paseo,High,2156,10,125,258720,04/08/2010,269500
+Government,Mexico,Paseo,High,905,10,20,9050,04/08/2010,18100
+Government,Mexico,Paseo,High,1715,10,20,17150,04/08/2010,34300
+Government,United States of America,Velo,High,986,120,350,256360,06/08/2010,345100
+Government,Mexico,Velo,High,905,120,20,9050,06/08/2010,18100
+Enterprise,Germany,Paseo,Low,809,10,125,97080,07/08/2010,101125
+Enterprise,France,Paseo,High,2441,10,125,292920,10/08/2010,305125
+Government,Germany,Paseo,High,2992,10,20,29920,10/08/2010,59840
+Government,United States of America,Velo,Low,736,120,20,7360,15/08/2010,14720
+Government,Canada,Carretera,Low,2851,3,7,14255,15/08/2010,19957
+Enterprise,Germany,Paseo,Low,1706,10,125,204720,17/08/2010,213250
+Government,France,Carretera,Medium,1563,3,20,15630,20/08/2010,31260
+Government,United States of America,Paseo,High,2641,10,20,26410,20/08/2010,52820
+Midmarket,France,Amarilla,Low,321,260,15,3210,23/08/2010,4815
+Channel Partners,United States of America,Montana,Low,1142,5,12,3426,24/08/2010,13704
+Government,France,VTT,High,1281,250,350,333060,24/08/2010,448350
+Government,Canada,Velo,Low,2646,120,20,26460,26/08/2010,52920
+Government,France,Velo,Low,2177,120,350,566020,26/08/2010,761950
+Channel Partners,France,VTT,Low,866,250,12,2598,26/08/2010,10392
+Small Business,United States of America,Velo,Medium,1372,120,300,343000,27/08/2010,411600
+Midmarket,Mexico,Carretera,None,2470,3,15,24700,28/08/2010,37050
+Government,Germany,Carretera,None,1513,3,350,393380,28/08/2010,529550
+Midmarket,United States of America,Paseo,Low,1925,10,15,19250,30/08/2010,28875
+Government,United States of America,Paseo,Low,2013,10,7,10065,30/08/2010,14091
+Small Business,Canada,VTT,Medium,2436,250,300,609000,30/08/2010,730800
+Enterprise,France,Amarilla,Medium,1988,260,125,238500,30/08/2010,248437.5
+Channel Partners,Mexico,Amarilla,High,410,260,12,1230,30/08/2010,4920
+Channel Partners,Mexico,Amarilla,Medium,1375,260,12,4125,01/09/2010,16500
+Government,Canada,Montana,High,1249,5,20,12490,06/09/2010,24980
+Midmarket,Germany,Carretera,High,1513,3,15,15130,11/09/2010,22695
+Government,Canada,VTT,None,1817,250,20,18170,19/09/2010,36340
+Enterprise,France,Paseo,Low,1287,10,125,154440,21/09/2010,160875
+Small Business,Canada,Montana,Medium,3803,5,300,950625,21/09/2010,1140750
+Government,France,Montana,Medium,1666,5,350,433160,21/09/2010,583100
+Government,Germany,Velo,None,1006,120,350,261560,23/09/2010,352100
+Channel Partners,France,Amarilla,High,1393,260,12,4179,23/09/2010,16716
+Midmarket,United States of America,Velo,High,790,120,15,7900,24/09/2010,11850
+Channel Partners,Germany,Amarilla,High,472,260,12,1416,25/09/2010,5664
+Channel Partners,Germany,Velo,High,1013,120,12,3039,29/09/2010,12156
+Enterprise,Germany,Paseo,Low,1570,10,125,188400,30/09/2010,196250
+Government,Canada,Amarilla,Medium,1135,260,7,5675,07/10/2010,7945
+Government,United States of America,Carretera,Medium,1761,3,350,457860,07/10/2010,616350
+Small Business,France,Carretera,Medium,448,3,300,112000,07/10/2010,134400
+Enterprise,France,Montana,Medium,1857,5,125,222840,10/10/2010,232125
+Government,Canada,Paseo,Low,2074,10,20,20740,11/10/2010,41480
+Channel Partners,Canada,Amarilla,High,2761,260,12,8283,11/10/2010,33132
+Midmarket,United States of America,Carretera,High,2567,3,15,25670,11/10/2010,38505
+Government,Canada,Carretera,None,1619,3,20,16185,13/10/2010,32370
+Government,United States of America,Paseo,Medium,727,10,350,189020,15/10/2010,254450
+Enterprise,Canada,Velo,Medium,952,120,125,114240,15/10/2010,119000
+Enterprise,United States of America,Velo,Medium,2755,120,125,330600,15/10/2010,344375
+Small Business,France,VTT,Medium,1221,250,300,305250,20/10/2010,366300
+Government,Mexico,VTT,Medium,1123,250,20,11230,20/10/2010,22460
+Midmarket,United States of America,Carretera,Medium,2030,3,15,20300,23/10/2010,30450
+Government,Germany,Paseo,High,357,10,350,92820,24/10/2010,124950
+Channel Partners,Germany,Paseo,High,1013,10,12,3039,24/10/2010,12156
+Government,France,Velo,High,2805,120,20,28050,26/10/2010,56100
+Midmarket,Mexico,Velo,High,655,120,15,6550,26/10/2010,9825
+Midmarket,United States of America,Amarilla,None,615,260,15,6150,07/11/2010,9225
+Midmarket,Canada,Paseo,None,2152,10,15,21520,08/11/2010,32280
+Channel Partners,Mexico,Montana,Low,690,5,12,2070,10/11/2010,8280
+Midmarket,United States of America,Paseo,Medium,3675,10,15,36750,13/11/2010,55125
+Government,Mexico,VTT,Low,1397,250,350,363220,16/11/2010,488950
+Channel Partners,Mexico,Velo,High,410,120,12,1230,17/11/2010,4920
+Small Business,Mexico,Velo,High,2605,120,300,651250,17/11/2010,781500
+Midmarket,United States of America,Paseo,Medium,2931,10,15,29310,22/11/2010,43965
+Midmarket,Mexico,Montana,None,2470,5,15,24700,23/11/2010,37050
+Enterprise,Canada,Montana,None,2666,5,125,319860,23/11/2010,333187.5
+Enterprise,Mexico,Amarilla,Low,1074,260,125,128880,23/11/2010,134250
+Government,Germany,Amarilla,Low,1907,260,350,495820,23/11/2010,667450
+Channel Partners,United States of America,Carretera,High,386,3,12,1158,23/11/2010,4632
+Enterprise,Germany,VTT,High,552,250,125,66240,23/11/2010,69000
+Government,France,Amarilla,Medium,1403,260,7,7015,24/11/2010,9821
+Government,Mexico,Carretera,Medium,521,3,7,2605,25/11/2010,3647
+Government,Germany,Paseo,High,2708,10,20,27080,02/12/2010,54160
+Government,Canada,Paseo,High,2632,10,350,684320,02/12/2010,921200
+Enterprise,Canada,Paseo,High,1583,10,125,189960,02/12/2010,197875
+Small Business,Germany,Velo,High,2536,120,300,634000,03/12/2010,760800
+Government,United States of America,Paseo,High,1177,10,350,306020,04/12/2010,411950
+Government,Canada,Velo,Low,3851,120,20,38505,05/12/2010,77010
+Midmarket,Mexico,Paseo,Low,1514,10,15,15140,07/12/2010,22710
+Government,United States of America,Paseo,Low,274,10,350,71240,07/12/2010,95900
+Channel Partners,Germany,VTT,None,2838,250,12,8514,09/12/2010,34056
+Enterprise,France,Carretera,High,1023,3,125,122760,11/12/2010,127875
+Government,Germany,Carretera,High,792,3,350,205920,14/12/2010,277200
+Government,Germany,Paseo,Medium,1934,10,20,19340,22/12/2010,38680
+Midmarket,United States of America,VTT,High,2567,250,15,25670,22/12/2010,38505
+Channel Partners,United States of America,Paseo,None,912,10,12,2736,23/12/2010,10944
+Channel Partners,France,VTT,Medium,2234,250,12,6702,24/12/2010,26808
+Midmarket,France,Montana,High,2072,5,15,20720,28/12/2010,31080
+Government,Canada,Montana,High,200,5,350,52000,30/12/2010,70000
+Government,Canada,Montana,High,388,5,7,1940,30/12/2010,2716
+Government,Germany,VTT,Medium,2338,250,7,11690,31/12/2010,16366
+Government,Germany,Paseo,None,1513,10,350,393380,01/01/2011,529550
+Government,Mexico,Velo,None,1493,120,7,7465,01/01/2011,10451
+Channel Partners,United States of America,Paseo,High,386,10,12,1158,04/01/2011,4632
+Enterprise,United States of America,Carretera,High,3446,3,125,413460,04/01/2011,430687.5
+Midmarket,Mexico,VTT,High,641,250,15,6410,08/01/2011,9615
+Enterprise,Germany,Montana,Medium,2500,5,125,300000,10/01/2011,312500
+Small Business,Canada,Paseo,Medium,1702,10,300,425500,10/01/2011,510600
+Government,Mexico,Amarilla,High,344,260,350,89440,11/01/2011,120400
+Midmarket,Mexico,Amarilla,High,2157,260,15,21570,11/01/2011,32355
+Government,United States of America,Paseo,High,380,10,7,1900,11/01/2011,2660
+Government,Mexico,Carretera,High,886,3,350,230360,11/01/2011,310100
+Government,Mexico,VTT,High,1233,250,20,12330,16/01/2011,24660
+Channel Partners,Canada,Montana,Medium,2321,5,12,6963,17/01/2011,27852
+Channel Partners,Mexico,Montana,High,604,5,12,1812,26/01/2011,7248
+Government,United States of America,VTT,Low,266,250,350,69160,27/01/2011,93100
+Government,Mexico,VTT,Low,1940,250,350,504400,27/01/2011,679000
+Small Business,Germany,Amarilla,Low,259,260,300,64750,27/01/2011,77700
+Channel Partners,Canada,Amarilla,High,3521,260,12,10561.5,28/01/2011,42246
+Government,Mexico,Amarilla,High,2039,260,20,20390,28/01/2011,40780
+Channel Partners,United States of America,VTT,High,1806,250,12,5418,31/01/2011,21672
+Small Business,United States of America,Carretera,High,1010,3,300,252500,04/02/2011,303000
+Midmarket,United States of America,Paseo,Low,671,10,15,6710,08/02/2011,10065
+Government,France,VTT,High,293,250,20,2930,10/02/2011,5860
+Small Business,United States of America,Amarilla,High,2993,260,300,748250,13/02/2011,897900
+Channel Partners,France,Paseo,High,2426,10,12,7276.5,13/02/2011,29106
+Government,Canada,Paseo,High,2394,10,20,23940,13/02/2011,47880
+Midmarket,Mexico,Velo,Medium,245,120,15,2450,17/02/2011,3675
+Small Business,Canada,Velo,Medium,3794,120,300,948375,17/02/2011,1138050
+Government,France,Paseo,High,1594,10,350,414440,07/03/2011,557900
+Government,United States of America,VTT,Medium,570,250,7,2850,08/03/2011,3990
+Small Business,Mexico,Paseo,None,788,10,300,197000,09/03/2011,236400
+Midmarket,Mexico,Paseo,None,2472,10,15,24720,09/03/2011,37080
+Government,Mexico,Paseo,High,2851,10,350,741260,10/03/2011,997850
+Enterprise,France,Amarilla,High,1433,260,125,171960,16/03/2011,179125
+Enterprise,Germany,Amarilla,Low,2276,260,125,273120,17/03/2011,284500
+Government,Germany,Amarilla,Low,2966,260,350,771160,17/03/2011,1038100
+Government,United States of America,Velo,Medium,602,120,350,156520,19/03/2011,210700
+Channel Partners,Canada,Paseo,Medium,2431,10,12,7293,23/03/2011,29172
+Government,France,Montana,None,1899,5,20,18990,24/03/2011,37980
+Government,United States of America,Carretera,Medium,1118,3,20,11175,26/03/2011,22350
+Midmarket,Canada,Carretera,Medium,2844,3,15,28440,26/03/2011,42660
+Channel Partners,Mexico,Paseo,High,571,10,12,1713,26/03/2011,6852
+Government,Canada,VTT,High,866,250,20,8655,26/03/2011,17310
+Midmarket,Germany,VTT,High,492,250,15,4920,26/03/2011,7380
+Enterprise,Germany,Paseo,Medium,3513,10,125,421560,28/03/2011,439125
+Midmarket,France,Paseo,Medium,2101,10,15,21010,28/03/2011,31515
+Channel Partners,United States of America,Amarilla,High,2015,260,12,6045,28/03/2011,24180
+Government,United States of America,Paseo,High,1439,10,7,7192.5,29/03/2011,10069.5
+Small Business,Germany,Paseo,High,807,10,300,201750,29/03/2011,242100
+Small Business,Mexico,Paseo,High,591,10,300,147750,02/04/2011,177300
+Government,United States of America,Paseo,Medium,973,10,20,9730,08/04/2011,19460
+Government,Mexico,Paseo,Medium,1038,10,20,10380,08/04/2011,20760
+Government,Germany,Paseo,Medium,360,10,7,1800,08/04/2011,2520
+Channel Partners,France,Velo,Medium,1967,120,12,5901,08/04/2011,23604
+Enterprise,Germany,Velo,Low,809,120,125,97080,10/04/2011,101125
+Enterprise,Mexico,Velo,Low,2145,120,125,257400,10/04/2011,268125
+Channel Partners,France,Velo,Low,1055,120,12,3165,10/04/2011,12660
+Government,France,Amarilla,Low,941,260,20,9410,11/04/2011,18820
+Small Business,Canada,Amarilla,Low,1916,260,300,479000,11/04/2011,574800
+Enterprise,France,Carretera,Low,4244,3,125,509220,11/04/2011,530437.5
+Channel Partners,Canada,Paseo,High,4026,10,12,12078,14/04/2011,48312
+Government,Canada,Amarilla,Medium,552,260,350,143520,15/04/2011,193200
+Government,Canada,Paseo,High,1249,10,20,12490,29/04/2011,24980
+Government,Canada,Paseo,None,1725,10,350,448500,06/05/2011,603750
+Government,United States of America,Velo,Medium,2832,120,20,28320,08/05/2011,56640
+Channel Partners,United States of America,Paseo,High,2914,10,12,8742,13/05/2011,34968
+Government,France,Paseo,High,1731,10,7,8655,13/05/2011,12117
+Government,Canada,VTT,Medium,1582,250,7,7910,14/05/2011,11074
+Government,Germany,Velo,Medium,2338,120,7,11690,16/05/2011,16366
+Enterprise,Mexico,Paseo,Low,1823,10,125,218760,17/05/2011,227875
+Midmarket,Germany,Paseo,Low,747,10,15,7470,17/05/2011,11205
+Channel Partners,Germany,Paseo,Low,766,10,12,2298,17/05/2011,9192
+Small Business,United States of America,Paseo,Low,2905,10,300,726250,17/05/2011,871500
+Government,France,Paseo,Low,2155,10,350,560300,17/05/2011,754250
+Midmarket,France,VTT,Medium,1227,250,15,12270,17/05/2011,18405
+Government,France,VTT,High,1491,250,7,7455,21/05/2011,10437
+Government,Germany,VTT,High,1531,250,20,15310,21/05/2011,30620
+Small Business,Canada,Amarilla,High,888,260,300,222000,22/05/2011,266400
+Enterprise,United States of America,Amarilla,High,2844,260,125,341280,22/05/2011,355500
+Enterprise,France,VTT,Low,1744,250,125,209280,27/05/2011,218000
+Channel Partners,United States of America,Amarilla,Low,1989,260,12,5967,27/05/2011,23868
+Small Business,France,VTT,None,2151,250,300,537750,28/05/2011,645300
+Midmarket,United States of America,Montana,None,615,5,15,6150,30/05/2011,9225
+Government,France,Paseo,Medium,1535,10,20,15350,30/05/2011,30700
+Enterprise,Canada,Amarilla,Medium,1645,260,125,197400,02/06/2011,205625
+Enterprise,Canada,Velo,Medium,567,120,125,68040,03/06/2011,70875
+Government,Canada,Paseo,Medium,1228,10,350,319280,04/06/2011,429800
+Enterprise,Germany,VTT,Low,1570,250,125,188400,07/06/2011,196250
+Small Business,Canada,VTT,Low,1874,250,300,468500,07/06/2011,562200
+Government,Mexico,VTT,Low,1642,250,350,426920,07/06/2011,574700
+Enterprise,Germany,Carretera,Medium,887,3,125,106440,09/06/2011,110875
+Government,Canada,Montana,Medium,1611,5,7,8055,09/06/2011,11277
+Enterprise,United States of America,Montana,Medium,2797,5,125,335640,09/06/2011,349625
+Small Business,Germany,Montana,Medium,334,5,300,83500,09/06/2011,100200
+Midmarket,Canada,VTT,High,1565,250,15,15650,13/06/2011,23475
+Midmarket,Germany,Montana,None,921,5,15,9210,17/06/2011,13815
+Channel Partners,Canada,Montana,None,2518,5,12,7554,17/06/2011,30216
+Enterprise,Mexico,Amarilla,High,947,260,125,113640,18/06/2011,118375
+Government,United States of America,VTT,Low,349,250,350,90740,20/06/2011,122150
+Channel Partners,Germany,Montana,Medium,2342,5,12,7026,20/06/2011,28104
+Government,Germany,Carretera,High,442,3,20,4420,20/06/2011,8840
+Government,United States of America,Amarilla,Medium,727,260,350,189020,21/06/2011,254450
+Government,United States of America,Montana,Low,1566,5,20,15660,04/07/2011,31320
+Government,Germany,Amarilla,None,1686,260,7,8430,08/07/2011,11802
+Midmarket,Germany,Carretera,None,888,3,15,8880,10/07/2011,13320
+Government,Mexico,Velo,Medium,1498,120,7,7490,11/07/2011,10486
+Channel Partners,Germany,Velo,None,1545,120,12,4635,19/07/2011,18540
+Government,Germany,Paseo,Medium,1095,10,7,5475,21/07/2011,7665
+Channel Partners,France,Amarilla,Medium,306,260,12,918,21/07/2011,3672
+Midmarket,Germany,Velo,Medium,1530,120,15,15300,23/07/2011,22950
+Government,France,Velo,Medium,1496,120,350,388960,23/07/2011,523600
+Government,Mexico,Montana,High,1727,5,7,8635,25/07/2011,12089
+Midmarket,Mexico,Paseo,High,1984,10,15,19840,30/07/2011,29760
+Midmarket,United States of America,Paseo,Medium,2198,10,15,21980,31/07/2011,32970
+Midmarket,Germany,Paseo,Medium,1743,10,15,17430,31/07/2011,26145
+Government,Canada,Montana,Low,1830,5,7,9150,07/08/2011,12810
+Channel Partners,Mexico,Montana,High,2661,5,12,7983,07/08/2011,31932
+Government,Germany,Paseo,High,1531,10,20,15310,07/08/2011,30620
+Government,France,Montana,Medium,1385,5,350,359970,08/08/2011,484575
+Enterprise,United States of America,Montana,Medium,3627,5,125,435240,08/08/2011,453375
+Government,Canada,Amarilla,Low,1778,260,350,462280,10/08/2011,622300
+Government,Germany,Montana,Medium,1159,5,7,5795,10/08/2011,8113
+Government,France,Amarilla,Medium,2876,260,350,747760,10/08/2011,1006600
+Enterprise,Germany,Amarilla,Medium,994,260,125,119280,10/08/2011,124250
+Government,Canada,Amarilla,Medium,1118,260,20,11180,10/08/2011,22360
+Small Business,United States of America,Amarilla,Medium,1372,260,300,343000,10/08/2011,411600
+Enterprise,United States of America,Paseo,Medium,861,10,125,103320,12/08/2011,107625
+Enterprise,France,Paseo,Medium,704,10,125,84480,12/08/2011,88000
+Government,Germany,VTT,Low,263,250,7,1315,13/08/2011,1841
+Government,Canada,VTT,Low,944,250,350,245310,16/08/2011,330225
+Enterprise,United States of America,VTT,Low,727,250,125,87240,16/08/2011,90875
+Enterprise,France,VTT,Low,787,250,125,94440,16/08/2011,98375
+Enterprise,Canada,Carretera,Low,743,3,125,89100,19/08/2011,92812.5
+Channel Partners,Mexico,Carretera,Medium,367,3,12,1101,25/08/2011,4404
+Government,Germany,Montana,High,2992,5,20,29920,25/08/2011,59840
+Midmarket,United States of America,Paseo,Low,1514,10,15,15140,28/08/2011,22710
+Government,France,Amarilla,None,2750,260,350,715000,31/08/2011,962500
+Channel Partners,United States of America,Amarilla,None,1953,260,12,5859,31/08/2011,23436
+Enterprise,Germany,Amarilla,None,4220,260,125,506340,31/08/2011,527437.5
+Government,France,Amarilla,None,1899,260,20,18990,31/08/2011,37980
+Midmarket,Germany,Paseo,Medium,2116,10,15,21160,02/09/2011,31740
+Midmarket,United States of America,Velo,Medium,555,120,15,5550,02/09/2011,8325
+Government,Canada,Paseo,High,2105,10,350,547170,02/09/2011,736575
+Midmarket,Mexico,Paseo,Low,2031,10,15,20310,05/09/2011,30465
+Government,Germany,Velo,Low,2877,120,350,748020,10/09/2011,1006950
+Channel Partners,Mexico,Paseo,Medium,367,10,12,1101,12/09/2011,4404
+Small Business,United States of America,Velo,High,2460,120,300,615000,13/09/2011,738000
+Small Business,Canada,Velo,High,269,120,300,67250,13/09/2011,80700
+Midmarket,Germany,Paseo,Low,1945,10,15,19450,14/09/2011,29175
+Channel Partners,Canada,VTT,High,2109,250,12,6327,15/09/2011,25308
+Government,United States of America,Carretera,Low,274,3,350,71240,17/09/2011,95900
+Government,Germany,Paseo,Medium,1259,10,7,6295,22/09/2011,8813
+Enterprise,Germany,Carretera,High,2767,3,125,332040,22/09/2011,345875
+Enterprise,Germany,Carretera,High,1085,3,125,130200,22/09/2011,135625
+Enterprise,France,Carretera,High,1174,3,125,140880,26/09/2011,146750
+Government,United States of America,Paseo,Low,4493,10,7,22462.5,29/09/2011,31447.5
+Enterprise,United States of America,Paseo,Low,727,10,125,87240,29/09/2011,90875
+Government,United States of America,Amarilla,Medium,2071,260,350,538460,03/10/2011,724850
+Government,Canada,Amarilla,Medium,1269,260,350,329940,03/10/2011,444150
+Government,Mexico,Velo,Low,544,120,20,5440,09/10/2011,10880
+Channel Partners,Mexico,Velo,Low,1084,120,12,3252,09/10/2011,13008
+Enterprise,France,Velo,None,1804,120,125,216480,10/10/2011,225500
+Channel Partners,Germany,Velo,None,2161,120,12,6483,10/10/2011,25932
+Government,Mexico,Velo,Low,362,120,7,1810,10/10/2011,2534
+Channel Partners,Canada,Paseo,Low,1295,10,12,3885,15/10/2011,15540
+Channel Partners,Mexico,Carretera,Medium,727,3,12,2181,17/10/2011,8724
+Small Business,Germany,Paseo,High,1359,10,300,339750,20/10/2011,407700
+Midmarket,Canada,Montana,Low,1967,5,15,19670,22/10/2011,29505
+Enterprise,Canada,Velo,High,1916,120,125,229920,27/10/2011,239500
+Government,Germany,Carretera,Medium,663,3,20,6630,05/11/2011,13260
+Government,Canada,Carretera,Medium,819,3,7,4095,05/11/2011,5733
+Government,United States of America,VTT,Medium,1265,250,20,12650,10/11/2011,25300
+Government,Canada,VTT,Low,1326,250,7,6630,12/11/2011,9282
+Channel Partners,United States of America,Carretera,Low,1858,3,12,5574,12/11/2011,22296
+Midmarket,Mexico,Montana,Low,2214,5,15,22140,16/11/2011,33210
+Small Business,United States of America,Montana,Low,2301,5,300,575250,16/11/2011,690300
+Government,France,Montana,Low,1376,5,20,13755,16/11/2011,27510
+Channel Partners,Canada,Velo,Medium,2431,120,12,7293,19/11/2011,29172
+Government,Germany,Velo,Medium,1307,120,350,339820,19/11/2011,457450
+Government,Canada,Amarilla,Medium,1228,260,350,319280,25/11/2011,429800
+Small Business,Germany,Amarilla,Medium,1250,260,300,312500,25/11/2011,375000
+Government,Mexico,Velo,High,1395,120,350,362700,04/12/2011,488250
+Government,Canada,Paseo,High,700,10,350,182000,07/12/2011,245000
+Channel Partners,Canada,Paseo,High,2222,10,12,6666,07/12/2011,26664
+Government,United States of America,VTT,Medium,1352,250,350,351390,16/12/2011,473025
+Government,Mexico,VTT,High,2903,250,7,14515,18/12/2011,20321
+Small Business,United States of America,VTT,High,2541,250,300,635250,18/12/2011,762300
+Small Business,Canada,VTT,High,269,250,300,67250,18/12/2011,80700
+Channel Partners,United States of America,Paseo,Low,1142,10,12,3426,24/12/2011,13704
+Enterprise,Canada,VTT,High,2529,250,125,303480,30/12/2011,316125
+Government,Germany,VTT,High,1870,250,350,486200,30/12/2011,654500
+Enterprise,United States of America,Amarilla,High,579,260,125,69480,30/12/2011,72375
+Midmarket,France,Paseo,Low,2296,10,15,22960,31/12/2011,34440
+Government,United States of America,VTT,Medium,2663,250,20,26630,02/01/2012,53260
+Channel Partners,Canada,Carretera,Low,1295,3,12,3885,03/01/2012,15540
+Government,United States of America,Amarilla,None,1143,260,7,5715,08/01/2012,8001
+Small Business,Germany,VTT,Low,214,250,300,53500,08/01/2012,64200
+Enterprise,Mexico,VTT,Medium,877,250,125,105240,11/01/2012,109625
+Government,Mexico,Carretera,Low,1210,3,350,314600,20/01/2012,423500
+Government,United States of America,Amarilla,High,270,260,350,70200,20/01/2012,94500
+Government,France,Amarilla,High,3422,260,7,17107.5,20/01/2012,23950.5
+Midmarket,Mexico,Velo,Medium,2861,120,15,28610,07/02/2012,42915
+Enterprise,Germany,Velo,Medium,807,120,125,96840,07/02/2012,100875
+Government,United States of America,Paseo,Medium,2327,10,7,11635,08/02/2012,16289
+Government,United States of America,VTT,High,267,250,20,2670,10/02/2012,5340
+Midmarket,Mexico,Paseo,None,974,10,15,9740,14/02/2012,14610
+Channel Partners,Canada,Paseo,None,2518,10,12,7554,14/02/2012,30216
+Channel Partners,Canada,Velo,Medium,598,120,12,1794,14/02/2012,7176
+Government,Canada,Paseo,Medium,257,10,7,1285,17/02/2012,1799
+Government,United States of America,Amarilla,Medium,1282,260,20,12820,23/02/2012,25640
+Enterprise,Mexico,Carretera,Medium,1540,3,125,184800,23/02/2012,192500
+Midmarket,France,Carretera,Medium,490,3,15,4900,23/02/2012,7350
+Government,Canada,Paseo,Medium,1389,10,20,13890,02/03/2012,27780
+Channel Partners,France,Carretera,Medium,1865,3,12,5595,03/03/2012,22380
+Channel Partners,Germany,Carretera,Medium,1116,3,12,3348,03/03/2012,13392
+Government,Mexico,Montana,High,1715,5,20,17150,06/03/2012,34300
+Government,Germany,VTT,Medium,360,250,7,1800,10/03/2012,2520
+Channel Partners,United States of America,Velo,Low,1465,120,12,4395,12/03/2012,17580
+Enterprise,Germany,Paseo,Low,795,10,125,95400,15/03/2012,99375
+Midmarket,United States of America,Amarilla,High,2548,260,15,25480,15/03/2012,38220
+Government,France,Carretera,High,2522,3,20,25215,15/03/2012,50430
+Government,France,Carretera,Low,2145,3,7,10725,17/03/2012,15015
+Enterprise,Mexico,Paseo,Low,662,10,125,79440,23/03/2012,82750
+Government,France,VTT,Medium,575,250,350,149370,07/04/2012,201075
+Channel Partners,Canada,Carretera,Low,908,3,12,2724,09/04/2012,10896
+Government,Germany,Montana,Low,1958,5,7,9790,09/04/2012,13706
+Midmarket,Germany,Velo,High,681,120,15,6810,11/04/2012,10215
+Midmarket,Canada,Paseo,High,1743,10,15,17430,14/04/2012,26145
+Government,Germany,Paseo,None,1006,10,350,261560,15/04/2012,352100
+Channel Partners,Germany,Paseo,None,367,10,12,1101,15/04/2012,4404
+Government,Germany,VTT,Medium,2297,250,20,22970,15/04/2012,45940
+Small Business,Canada,VTT,Medium,2134,250,300,533500,15/04/2012,640200
+Small Business,United States of America,VTT,Medium,808,250,300,202000,15/04/2012,242400
+Government,France,Paseo,High,2532,10,7,12660,22/04/2012,17724
+Midmarket,France,Paseo,Medium,3801,10,15,38010,25/04/2012,57015
+Government,France,Amarilla,Medium,2076,260,350,539760,27/04/2012,726600
+Midmarket,Germany,VTT,None,888,250,15,8880,02/05/2012,13320
+Enterprise,France,Paseo,Low,787,10,125,94440,04/05/2012,98375
+Government,France,Paseo,Medium,1496,10,350,388960,11/05/2012,523600
+Channel Partners,Canada,Paseo,Medium,2299,10,12,6897,11/05/2012,27588
+Government,Germany,Amarilla,Medium,1159,260,7,5795,12/05/2012,8113
+Small Business,Germany,Paseo,Medium,1123,10,300,280750,13/05/2012,336900
+Channel Partners,United States of America,Carretera,Low,1947,3,12,5841,16/05/2012,23364
+Channel Partners,Mexico,Velo,High,500,120,12,1500,20/05/2012,6000
+Government,France,Velo,Medium,1976,120,20,19760,21/05/2012,39520
+Government,Mexico,Velo,High,344,120,350,89440,26/05/2012,120400
+Government,Canada,Velo,High,1808,120,7,9040,26/05/2012,12656
+Channel Partners,France,VTT,High,1734,250,12,5202,26/05/2012,20808
+Government,United States of America,Amarilla,Low,1236,260,20,12360,06/06/2012,24720
+Small Business,Mexico,Montana,None,958,5,300,239500,08/06/2012,287400
+Government,Germany,Montana,None,2146,5,7,10730,08/06/2012,15022
+Midmarket,Germany,Amarilla,Medium,711,260,15,7110,11/06/2012,10665
+Channel Partners,France,Carretera,Low,2671,3,12,8013,12/06/2012,32052
+Small Business,Mexico,Paseo,Medium,2565,10,300,641250,26/06/2012,769500
+Enterprise,Canada,Paseo,Low,1774,10,125,212880,27/06/2012,221750
+Channel Partners,France,Paseo,Low,1901,10,12,5703,27/06/2012,22812
+Small Business,Germany,Paseo,Low,689,10,300,172250,27/06/2012,206700
+Government,Canada,Paseo,Medium,2349,10,7,11745,28/06/2012,16443
+Government,Mexico,Paseo,Medium,2689,10,7,13445,28/06/2012,18823
+Midmarket,Canada,Amarilla,High,1743,260,15,17430,28/06/2012,26145
+Channel Partners,United States of America,Amarilla,High,2914,260,12,8742,28/06/2012,34968
+Government,France,Carretera,Medium,2487,3,7,12435,29/06/2012,17409
+Government,Mexico,Carretera,High,2706,3,7,13530,29/06/2012,18942
+Government,Mexico,Paseo,High,2151,10,350,559260,29/06/2012,752850
+Channel Partners,United States of America,Paseo,High,914,10,12,2742,29/06/2012,10968
+Small Business,France,Montana,Medium,322,5,300,80500,30/06/2012,96600
+Small Business,United States of America,VTT,Medium,1867,250,300,466750,03/07/2012,560100
+Midmarket,Germany,Paseo,High,278,10,15,2780,07/07/2012,4170
+Enterprise,France,Velo,Medium,704,120,125,84480,09/07/2012,88000
+Government,United States of America,VTT,High,2807,250,350,729820,09/07/2012,982450
+Small Business,Mexico,VTT,High,432,250,300,108000,09/07/2012,129600
+Small Business,United States of America,VTT,High,2294,250,300,573500,09/07/2012,688200
+Channel Partners,France,Paseo,High,1198,10,12,3594,16/07/2012,14376
+Channel Partners,Canada,Carretera,Low,1445,3,12,4335,21/07/2012,17340
+Enterprise,United States of America,Carretera,Low,330,3,125,39600,21/07/2012,41250
+Small Business,France,Amarilla,High,853,260,300,213250,29/07/2012,255900
+Channel Partners,France,Carretera,High,1198,3,12,3594,29/07/2012,14376
+Enterprise,Canada,Montana,None,345,5,125,41400,04/08/2012,43125
+Government,United States of America,Paseo,None,1143,10,7,5715,04/08/2012,8001
+Channel Partners,France,Montana,Low,1901,5,12,5703,05/08/2012,22812
+Government,France,Montana,High,293,5,7,1465,07/08/2012,2051
+Small Business,Mexico,Amarilla,Medium,635,260,300,158750,09/08/2012,190500
+Small Business,Canada,VTT,High,1496,250,300,374000,09/08/2012,448800
+Small Business,United States of America,VTT,High,1010,250,300,252500,09/08/2012,303000
+Midmarket,Canada,Paseo,High,2559,10,15,25590,11/08/2012,38385
+Government,United States of America,Paseo,High,267,10,20,2670,11/08/2012,5340
+Enterprise,Germany,Paseo,High,1085,10,125,130200,11/08/2012,135625
+Midmarket,Germany,Paseo,High,1175,10,15,11750,11/08/2012,17625
+Government,Germany,Velo,Medium,588,120,20,5880,17/08/2012,11760
+Channel Partners,Canada,VTT,Medium,3245,250,12,9733.5,17/08/2012,38934
+Government,United States of America,Montana,High,983,5,350,255450,22/08/2012,343875
+Government,United States of America,Montana,High,1298,5,7,6490,22/08/2012,9086
+Channel Partners,Mexico,VTT,Low,1916,250,12,5748,28/08/2012,22992
+Government,France,Montana,Medium,1757,5,20,17570,28/08/2012,35140
+Small Business,Germany,VTT,Medium,2659,250,300,664750,30/08/2012,797700
+Government,Germany,Paseo,Medium,2125,10,7,10625,01/09/2012,14875
+Government,Mexico,Montana,High,1368,5,7,6840,05/09/2012,9576
+Government,Canada,Paseo,High,723,10,7,3615,05/09/2012,5061
+Channel Partners,Germany,Amarilla,High,2574,260,12,7722,08/09/2012,30888
+Government,Canada,Amarilla,High,707,260,350,183820,08/09/2012,247450
+Enterprise,Mexico,VTT,High,554,250,125,66480,10/09/2012,69250
+Government,Canada,VTT,High,2935,250,20,29350,10/09/2012,58700
+Enterprise,Germany,Amarilla,High,3165,260,125,379800,10/09/2012,395625
+Government,Mexico,Amarilla,High,2629,260,20,26290,10/09/2012,52580
+Government,Germany,Paseo,Medium,2409,10,7,12045,12/09/2012,16863
+Small Business,France,Velo,Medium,1221,120,300,305250,16/09/2012,366300
+Government,France,Velo,Medium,2076,120,350,539760,16/09/2012,726600
+Small Business,France,Paseo,Low,918,10,300,229500,19/09/2012,275400
+Small Business,Germany,Paseo,Low,1728,10,300,432000,19/09/2012,518400
+Midmarket,Canada,Velo,High,384,120,15,3840,22/09/2012,5760
+Government,Germany,Carretera,None,1321,3,20,13210,01/10/2012,26420
+Midmarket,France,Carretera,None,2178,3,15,21780,01/10/2012,32670
+Midmarket,United States of America,Paseo,Medium,1153,10,15,11530,06/10/2012,17295
+Government,France,Paseo,Medium,1757,10,20,17570,06/10/2012,35140
+Enterprise,Canada,Velo,Low,923,120,125,110760,07/10/2012,115375
+Enterprise,United States of America,Velo,Low,663,120,125,79560,07/10/2012,82875
+Government,Canada,Velo,Low,2092,120,7,10460,07/10/2012,14644
+Midmarket,France,VTT,None,2178,250,15,21780,08/10/2012,32670
+Government,France,Paseo,High,1954,10,20,19540,10/10/2012,39080
+Government,Canada,Paseo,None,1817,10,20,18170,21/10/2012,36340
+Enterprise,Mexico,VTT,Low,662,250,125,79440,23/10/2012,82750
+Small Business,Germany,Carretera,High,2811,3,300,702750,25/10/2012,843300
+Midmarket,Mexico,Carretera,Medium,2791,3,15,27910,29/10/2012,41865
+Channel Partners,Germany,Amarilla,High,1770,260,12,5310,30/10/2012,21240
+Government,Mexico,Carretera,High,2579,3,20,25790,30/10/2012,51580
+Government,Mexico,Paseo,High,260,10,20,2600,31/10/2012,5200
+Midmarket,Canada,Amarilla,Medium,1631,260,15,16305,01/11/2012,24457.5
+Government,Germany,Carretera,Low,2580,3,20,25800,06/11/2012,51600
+Small Business,Germany,Carretera,Low,689,3,300,172250,06/11/2012,206700
+Small Business,France,VTT,Medium,959,250,300,239750,09/11/2012,287700
+Small Business,Mexico,VTT,Medium,2747,250,300,686750,09/11/2012,824100
+Small Business,United States of America,Velo,High,2294,120,300,573500,11/11/2012,688200
+Government,Germany,Velo,High,241,120,20,2410,11/11/2012,4820
+Government,Germany,Velo,High,2665,120,7,13325,11/11/2012,18655
+Government,Germany,Velo,Low,2966,120,350,771160,15/11/2012,1038100
+Channel Partners,France,Amarilla,High,2475,260,12,7425,18/11/2012,29700
+Channel Partners,Canada,Carretera,High,1937,3,12,5811,19/11/2012,23244
+Small Business,France,Montana,Medium,1562,5,300,390500,21/11/2012,468600
+Small Business,Canada,Montana,Medium,1283,5,300,320750,21/11/2012,384900
+Midmarket,Germany,Montana,Medium,711,5,15,7110,21/11/2012,10665
+Government,Mexico,Montana,Medium,980,5,350,254800,23/11/2012,343000
+Government,Germany,Montana,Medium,1460,5,350,379600,23/11/2012,511000
+Government,France,Montana,Medium,1403,5,7,7015,23/11/2012,9821
+Government,Mexico,VTT,Medium,2689,250,7,13445,26/11/2012,18823
+Small Business,Germany,Carretera,Low,214,3,300,53500,29/11/2012,64200
+Government,Mexico,Montana,High,2255,5,20,22550,03/12/2012,45100
+Government,Germany,Paseo,Medium,2146,10,350,557960,21/12/2012,751100
+Government,Mexico,Paseo,Medium,1946,10,7,9730,21/12/2012,13622
+Government,Mexico,Paseo,Medium,1362,10,350,354120,21/12/2012,476700
+Midmarket,France,Paseo,Low,2261,10,15,22610,11/01/2009,33915
+Channel Partners,Germany,Carretera,Low,766,3,12,2298,15/01/2009,9192
+Small Business,Mexico,Carretera,Low,494,3,300,123500,15/01/2009,148200
+Midmarket,Canada,VTT,Medium,2844,250,15,28440,16/01/2009,42660
+Government,Mexico,VTT,Medium,1498,250,7,7490,16/01/2009,10486
+Government,Canada,Paseo,Low,2852,10,350,741520,17/01/2009,998200
+Enterprise,Canada,Paseo,Low,2729,10,125,327480,17/01/2009,341125
+Government,France,Paseo,High,293,10,20,2930,18/01/2009,5860
+Channel Partners,Mexico,Velo,High,604,120,12,1812,24/01/2009,7248
+Midmarket,Germany,Velo,High,660,120,15,6600,24/01/2009,9900
+Channel Partners,United States of America,Amarilla,None,2141,260,12,6423,30/01/2009,25692
+Government,Canada,Paseo,Low,4251,10,7,21255,30/01/2009,29757
+Small Business,France,Paseo,Medium,448,10,300,112000,30/01/2009,134400
+Government,Germany,Montana,High,766,5,350,199160,01/02/2009,268100
+Government,United States of America,Montana,High,2996,5,7,14980,01/02/2009,20972
+Small Business,France,Montana,High,1773,5,300,443250,02/02/2009,531900
+Government,Mexico,Montana,High,2420,5,7,12100,02/02/2009,16940
+Government,France,Amarilla,High,1731,260,7,8655,04/02/2009,12117
+Government,Mexico,Amarilla,High,1727,260,7,8635,04/02/2009,12089
+Small Business,Mexico,Montana,High,546,5,300,136500,15/02/2009,163800
+Government,Germany,Paseo,High,1158,10,20,11580,15/02/2009,23160
+Midmarket,Canada,Paseo,High,1614,10,15,16140,15/02/2009,24210
+Enterprise,Germany,Montana,Low,1706,5,125,204720,18/02/2009,213250
+Small Business,France,Paseo,Low,2435,10,300,608625,18/02/2009,730350
+Government,France,VTT,Medium,2682,250,20,26820,20/02/2009,53640
+Government,Mexico,VTT,Medium,521,250,7,2605,20/02/2009,3647
+Government,France,Velo,High,639,120,350,166140,21/02/2009,223650
+Enterprise,United States of America,Velo,High,1596,120,125,191520,21/02/2009,199500
+Government,Canada,Montana,Medium,488,5,7,2440,27/02/2009,3416
+Government,Canada,VTT,High,623,250,350,161980,01/03/2009,218050
+Enterprise,Mexico,Paseo,Medium,1114,10,125,133680,02/03/2009,139250
+Enterprise,Mexico,Paseo,Low,2145,10,125,257400,03/03/2009,268125
+Small Business,Germany,VTT,Low,986,250,300,246500,04/03/2009,295800
+Enterprise,Canada,Carretera,High,2416,3,125,289920,05/03/2009,302000
+Enterprise,Mexico,Carretera,High,2156,3,125,258720,05/03/2009,269500
+Enterprise,United States of America,Paseo,Medium,2797,10,125,335640,06/03/2009,349625
+Midmarket,France,VTT,High,2167,250,15,21670,09/03/2009,32505
+Small Business,United States of America,Paseo,Medium,991,10,300,247750,11/03/2009,297300
+Government,United States of America,Paseo,Medium,602,10,350,156520,11/03/2009,210700
+Midmarket,France,Paseo,Medium,2620,10,15,26200,11/03/2009,39300
+Midmarket,France,Montana,Medium,2501,5,15,25010,13/03/2009,37515
+Midmarket,France,Velo,High,2826,120,15,28260,19/03/2009,42390
+Enterprise,France,Velo,High,663,120,125,79560,19/03/2009,82875
+Small Business,United States of America,Velo,High,2574,120,300,643500,19/03/2009,772200
+Government,United States of America,Carretera,Low,2529,3,7,12645,20/03/2009,17703
+Government,Canada,Paseo,High,2428,10,20,24280,27/03/2009,48560
+Midmarket,United States of America,Paseo,High,1767,10,15,17670,27/03/2009,26505
+Channel Partners,France,Paseo,High,1393,10,12,4179,27/03/2009,16716
+Government,Germany,VTT,High,280,250,7,1400,27/03/2009,1960
+Government,Canada,Amarilla,High,2240,260,350,582400,29/03/2009,784000
+Government,Germany,Amarilla,Medium,1520,260,20,15200,31/03/2009,30400
+Small Business,Canada,Paseo,High,1366,10,300,341500,06/04/2009,409800
+Government,Mexico,Paseo,High,1122,10,20,11220,07/04/2009,22440
+Government,Mexico,Paseo,High,1233,10,20,12330,22/04/2009,24660
+Small Business,Mexico,Velo,Medium,635,120,300,158750,27/04/2009,190500
+Channel Partners,United States of America,Montana,Medium,2723,5,12,8169,01/05/2009,32676
+Midmarket,Germany,VTT,High,1175,250,15,11750,06/05/2009,17625
+Enterprise,Canada,VTT,High,2954,250,125,354480,06/05/2009,369250
+Midmarket,France,Amarilla,High,2072,260,15,20720,18/05/2009,31080
+Government,France,Carretera,High,1790,3,350,465400,27/05/2009,626500
+Midmarket,Canada,Paseo,Low,218,10,15,2180,29/05/2009,3270
+Government,Mexico,Paseo,Medium,2993,10,20,29930,30/05/2009,59860
+Channel Partners,United States of America,VTT,Medium,1956,250,12,5868,30/05/2009,23472
+Channel Partners,Germany,VTT,Low,2479,250,12,7437,07/06/2009,29748
+Midmarket,Mexico,Montana,High,2157,5,15,21570,20/06/2009,32355
+Small Business,Mexico,Paseo,Medium,1607,10,300,401750,21/06/2009,482100
+Small Business,United States of America,VTT,Low,2844,250,300,711000,22/06/2009,853200
+Government,United States of America,VTT,High,986,250,350,256360,24/06/2009,345100
+Enterprise,United States of America,VTT,High,2387,250,125,286440,24/06/2009,298375
+Small Business,Mexico,Carretera,High,801,3,300,200250,01/07/2009,240300
+Government,France,VTT,Medium,2487,250,7,12435,02/07/2009,17409
+Government,Germany,Amarilla,Medium,1350,260,350,351000,02/07/2009,472500
+Government,Canada,Carretera,High,923,3,350,239980,03/07/2009,323050
+Government,Germany,Montana,Medium,645,5,20,6450,07/07/2009,12900
+Government,Germany,Paseo,Medium,1366,10,20,13660,13/07/2009,27320
+Government,United States of America,Carretera,High,1743,3,20,17430,15/07/2009,34860
+Government,United States of America,Carretera,High,2996,3,7,14980,15/07/2009,20972
+Government,Germany,Carretera,High,280,3,7,1400,15/07/2009,1960
+Government,United States of America,Velo,Low,1566,120,20,15660,16/07/2009,31320
+Government,France,Montana,Low,544,5,7,2720,22/07/2009,3808
+Midmarket,Mexico,Montana,Low,2031,5,15,20310,27/07/2009,30465
+Small Business,Mexico,Amarilla,Medium,2460,260,300,615000,27/07/2009,738000
+Midmarket,United States of America,Amarilla,Low,671,260,15,6710,02/08/2009,10065
+Enterprise,France,Carretera,High,1482,3,125,177840,02/08/2009,185250
+Enterprise,United States of America,Montana,High,1804,5,125,216480,02/08/2009,225500
+Small Business,Mexico,Paseo,High,2150,10,300,537500,04/08/2009,645000
+Small Business,Germany,Carretera,Low,2021,3,300,505250,05/08/2009,606300
+Small Business,Germany,Paseo,Low,1415,10,300,353625,10/08/2009,424350
+Government,France,Paseo,Low,1030,10,7,5150,12/08/2009,7210
+Government,France,Velo,Low,639,120,7,3195,12/08/2009,4473
+Government,Canada,Velo,Medium,1582,120,7,7910,15/08/2009,11074
+Channel Partners,France,VTT,Medium,1739,250,12,5215.5,15/08/2009,20862
+Channel Partners,Germany,VTT,Medium,2215,250,12,6645,15/08/2009,26580
+Small Business,Mexico,VTT,Low,494,250,300,123500,18/08/2009,148200
+Channel Partners,Canada,Carretera,Medium,1884,3,12,5652,20/08/2009,22608
+Government,Mexico,Carretera,Medium,1834,3,20,18340,20/08/2009,36680
+Channel Partners,Mexico,Montana,Medium,2340,5,12,7020,20/08/2009,28080
+Government,United States of America,Carretera,Medium,263,3,7,1315,24/08/2009,1841
+Small Business,Germany,Velo,Medium,1250,120,300,312500,26/08/2009,375000
+Government,Canada,Montana,High,2734,5,7,13670,26/08/2009,19138
+Small Business,Mexico,Amarilla,Low,1101,260,300,275250,27/08/2009,330300
+Government,Canada,Paseo,Medium,1802,10,20,18020,01/09/2009,36040
+Small Business,Mexico,Montana,Medium,1100,5,300,275000,04/09/2009,330000
+Government,France,Paseo,Medium,1303,10,20,13030,04/09/2009,26060
+Enterprise,United States of America,Paseo,Medium,2992,10,125,359040,04/09/2009,374000
+Enterprise,France,Paseo,Medium,2385,10,125,286200,04/09/2009,298125
+Enterprise,United States of America,Velo,High,2438,120,125,292560,05/09/2009,304750
+Channel Partners,France,Paseo,Low,1055,10,12,3165,11/09/2009,12660
+Channel Partners,Mexico,Paseo,Low,1084,10,12,3252,11/09/2009,13008
+Government,Germany,Montana,High,1199,5,350,311740,15/09/2009,419650
+Enterprise,Canada,Velo,Low,2009,120,125,241080,16/09/2009,251125
+Small Business,Canada,Carretera,High,1496,3,300,374000,16/09/2009,448800
+Government,France,Velo,Medium,1579,120,20,15790,25/09/2009,31580
+Enterprise,United States of America,Velo,Medium,861,120,125,103320,25/09/2009,107625
+Government,Mexico,Amarilla,Medium,1038,260,20,10380,01/10/2009,20760
+Midmarket,France,VTT,High,3875,250,15,38745,02/10/2009,58117.5
+Government,Canada,VTT,Medium,1389,250,20,13890,08/10/2009,27780
+Enterprise,United States of America,Velo,None,2821,120,125,338520,09/10/2009,352625
+Enterprise,Canada,Velo,None,345,120,125,41400,09/10/2009,43125
+Small Business,Canada,VTT,None,2001,250,300,500250,09/10/2009,600300
+Midmarket,Germany,VTT,Low,1945,250,15,19450,09/10/2009,29175
+Government,Canada,Carretera,Low,831,3,20,8310,09/10/2009,16620
+Government,Mexico,Paseo,Low,1760,10,7,8800,09/10/2009,12320
+Government,Mexico,Paseo,High,2535,10,7,12675,11/10/2009,17745
+Government,Mexico,Carretera,Medium,1362,3,350,354120,15/10/2009,476700
+Enterprise,United States of America,Montana,Low,663,5,125,79560,17/10/2009,82875
+Small Business,France,Carretera,Medium,2181,3,300,545250,23/10/2009,654300
+Government,France,Montana,Medium,1976,5,20,19760,23/10/2009,39520
+Channel Partners,United States of America,Velo,High,914,120,12,2742,03/11/2009,10968
+Government,United States of America,Velo,Medium,1421,120,20,14210,08/11/2009,28420
+Small Business,Germany,Montana,Low,1859,5,300,464750,14/11/2009,557700
+Government,Canada,Montana,Low,2851,5,7,14255,14/11/2009,19957
+Small Business,Canada,Paseo,Medium,1094,10,300,273500,14/11/2009,328200
+Midmarket,France,Paseo,Medium,1227,10,15,12270,14/11/2009,18405
+Government,France,Velo,Low,3864,120,20,38640,17/11/2009,77280
+Small Business,France,Montana,High,1186,5,300,296500,19/11/2009,355800
+Small Business,United States of America,Paseo,High,3495,10,300,873750,19/11/2009,1048500
+Small Business,France,Paseo,Medium,1324,10,300,331000,23/11/2009,397200
+Government,France,Paseo,High,1922,10,350,499720,24/11/2009,672700
+Enterprise,Mexico,Velo,High,1575,120,125,189000,24/11/2009,196875
+Government,United States of America,Velo,High,606,120,20,6060,24/11/2009,12120
+Government,Canada,Paseo,None,292,10,20,2920,25/11/2009,5840
+Midmarket,France,Paseo,High,2167,10,15,21670,25/11/2009,32505
+Government,Germany,Paseo,High,241,10,20,2410,25/11/2009,4820
+Channel Partners,Mexico,Paseo,Medium,2763,10,12,8289,29/11/2009,33156
+Channel Partners,Mexico,VTT,High,1005,250,12,3015,02/12/2009,12060
+Channel Partners,Germany,VTT,Medium,880,250,12,2640,09/12/2009,10560
+Midmarket,Canada,Carretera,High,2689,3,15,26890,14/12/2009,40335
+Midmarket,United States of America,Montana,High,677,5,15,6770,14/12/2009,10155
+Small Business,France,Velo,High,853,120,300,213250,16/12/2009,255900
+Government,France,Paseo,High,2696,10,7,13480,19/12/2009,18872
+Midmarket,Canada,Paseo,High,1565,10,15,15650,19/12/2009,23475
+Midmarket,Canada,Paseo,High,2470,10,15,24700,22/12/2009,37050
+Midmarket,Canada,Montana,High,2300,5,15,23000,23/12/2009,34500
+Midmarket,Mexico,Amarilla,High,1870,260,15,18700,25/12/2009,28050
+Government,United States of America,Paseo,High,2007,10,350,521820,25/12/2009,702450
+Government,France,Velo,Medium,1033,120,20,10330,14/01/2010,20660
+Government,United States of America,Carretera,Medium,570,3,7,2850,16/01/2010,3990
+Government,Germany,VTT,Low,2877,250,350,748020,25/01/2010,1006950
+Enterprise,Canada,VTT,Low,2729,250,125,327480,25/01/2010,341125
+Government,United States of America,Paseo,Medium,2663,10,20,26630,26/01/2010,53260
+Government,France,Paseo,Medium,2136,10,7,10680,26/01/2010,14952
+Government,France,VTT,Medium,381,250,350,99060,02/02/2010,133350
+Government,Germany,VTT,Medium,422,250,350,109720,02/02/2010,147700
+Government,Germany,Velo,Medium,1001,120,20,10010,06/02/2010,20020
+Government,Mexico,Velo,Medium,1333,120,7,6665,06/02/2010,9331
+Midmarket,United States of America,VTT,Medium,1153,250,15,11530,06/02/2010,17295
+Government,Germany,Paseo,Medium,1598,10,7,7990,06/02/2010,11186
+Government,United States of America,Montana,High,2328,5,7,11640,06/02/2010,16296
+Channel Partners,France,Paseo,Low,1785,10,12,5355,09/02/2010,21420
+Small Business,Canada,Paseo,Low,1916,10,300,479000,09/02/2010,574800
+Midmarket,Germany,Velo,High,510,120,15,5100,16/02/2010,7650
+Government,France,Carretera,Low,2155,3,350,560300,18/02/2010,754250
+Government,Mexico,Montana,Medium,720,5,350,187200,21/02/2010,252000
+Channel Partners,Germany,Montana,None,1545,5,12,4635,26/02/2010,18540
+Small Business,France,Velo,Medium,1659,120,300,414750,26/02/2010,497700
+Government,Mexico,Velo,Medium,609,120,20,6090,26/02/2010,12180
+Enterprise,Germany,Velo,Medium,2087,120,125,250440,26/02/2010,260875
+Government,United States of America,Velo,Medium,547,120,7,2735,27/02/2010,3829
+Midmarket,Canada,Carretera,High,2300,3,15,23000,02/03/2010,34500
+Enterprise,Mexico,Carretera,High,2821,3,125,338520,02/03/2010,352625
+Government,Canada,Montana,High,2228,5,350,579150,02/03/2010,779625
+Midmarket,Germany,Amarilla,Medium,970,260,15,9700,05/03/2010,14550
+Government,Mexico,Amarilla,Medium,1694,260,20,16940,05/03/2010,33880
+Small Business,France,Velo,Medium,386,120,300,96500,07/03/2010,115800
+Government,France,VTT,None,1527,250,350,397020,08/03/2010,534450
+Government,Mexico,Paseo,None,883,10,7,4415,12/03/2010,6181
+Midmarket,France,Paseo,None,549,10,15,5490,12/03/2010,8235
+Government,Canada,Montana,Medium,708,5,20,7080,12/03/2010,14160
+Government,Mexico,Paseo,Medium,2417,10,350,628420,16/03/2010,845950
+Small Business,Mexico,Paseo,Medium,2460,10,300,615000,29/03/2010,738000
+Government,United States of America,Paseo,Medium,678,10,7,3390,29/03/2010,4746
+Small Business,France,Amarilla,High,2475,260,300,618750,29/03/2010,742500
+Small Business,Mexico,Amarilla,High,546,260,300,136500,29/03/2010,163800
+Midmarket,Mexico,Velo,Medium,2628,120,15,26280,31/03/2010,39420
+Small Business,United States of America,Paseo,Low,2918,10,300,729500,01/04/2010,875400
+Government,United States of America,Paseo,Low,3450,10,350,897000,01/04/2010,1207500
+Government,France,Velo,High,1190,120,7,5950,11/04/2010,8330
+Government,Canada,Carretera,Low,2852,3,350,741520,12/04/2010,998200
+Channel Partners,United States of America,Paseo,Low,1370,10,12,4108.5,15/04/2010,16434
+Enterprise,Canada,Paseo,Low,2009,10,125,241080,15/04/2010,251125
+Government,Mexico,Paseo,High,1197,10,350,311220,28/04/2010,418950
+Midmarket,Mexico,Paseo,High,380,10,15,3800,28/04/2010,5700
+Government,France,Paseo,Low,3945,10,7,19725,29/04/2010,27615
+Small Business,Canada,Paseo,High,873,10,300,218250,03/05/2010,261900
+Enterprise,Canada,Amarilla,High,1659,260,125,199080,05/05/2010,207375
+Government,France,Amarilla,High,1190,260,7,5950,05/05/2010,8330
+Government,Germany,Paseo,Medium,1372,10,7,6860,06/05/2010,9604
+Government,Mexico,Amarilla,Medium,1679,260,350,436540,07/05/2010,587650
+Government,United States of America,VTT,Medium,437,250,20,4365,07/05/2010,8730
+Small Business,Canada,Carretera,Medium,1094,3,300,273500,07/05/2010,328200
+Enterprise,Mexico,VTT,High,341,250,125,40920,07/05/2010,42625
+Government,Germany,Montana,Low,1797,5,350,467220,09/05/2010,628950
+Enterprise,France,Montana,Low,1287,5,125,154440,09/05/2010,160875
+Midmarket,France,Velo,High,3998,120,15,39975,12/05/2010,59962.5
+Government,Canada,Velo,High,2632,120,350,684320,12/05/2010,921200
+Government,United States of America,Paseo,Low,1056,10,20,10560,18/05/2010,21120
+Government,Canada,Amarilla,Medium,708,260,20,7080,19/05/2010,14160
+Government,United States of America,Amarilla,Medium,2907,260,7,14535,19/05/2010,20349
+Government,Germany,Amarilla,Medium,1366,260,20,13660,19/05/2010,27320
+Channel Partners,Germany,Velo,High,472,120,12,1416,20/05/2010,5664
+Government,United States of America,VTT,High,1579,250,7,7895,20/05/2010,11053
+Government,Canada,Amarilla,High,2734,260,7,13670,21/05/2010,19138
+Enterprise,Mexico,Velo,Medium,2110,120,125,253200,25/05/2010,263750
+Government,Canada,Velo,Medium,1269,120,350,329940,25/05/2010,444150
+Midmarket,United States of America,Amarilla,High,3200,260,15,31995,01/06/2010,47992.5
+Government,Mexico,Carretera,Low,1397,3,350,363220,04/06/2010,488950
+Government,United States of America,Montana,High,2313,5,350,601380,05/06/2010,809550
+Government,United States of America,Montana,Medium,1282,5,20,12820,07/06/2010,25640
+Small Business,United States of America,Montana,Low,2498,5,300,624500,08/06/2010,749400
+Small Business,Canada,Paseo,Medium,1404,10,300,351000,08/06/2010,421200
+Small Business,France,Montana,Medium,2181,5,300,545250,09/06/2010,654300
+Channel Partners,France,Montana,Medium,2342,5,12,7026,14/06/2010,28104
+Government,France,Paseo,Medium,1031,10,7,5155,14/06/2010,7217
+Midmarket,Canada,Velo,Medium,1262,120,15,12620,14/06/2010,18930
+Government,Canada,Velo,Medium,1135,120,7,5675,14/06/2010,7945
+Enterprise,France,Carretera,High,2441,3,125,292920,17/06/2010,305125
+Midmarket,Canada,Carretera,High,1560,3,15,15600,17/06/2010,23400
+Enterprise,Mexico,Montana,Low,1660,5,125,199200,24/06/2010,207500
+Midmarket,Canada,Paseo,Low,2363,10,15,23630,24/06/2010,35445
+Small Business,United States of America,Carretera,Medium,991,3,300,247750,27/06/2010,297300
+Government,Germany,Carretera,Medium,1016,3,7,5080,27/06/2010,7112
+Small Business,Germany,Montana,Low,2021,5,300,505250,03/07/2010,606300
+Enterprise,Mexico,Montana,Low,1138,5,125,136560,03/07/2010,142250
+Government,United States of America,Velo,Medium,2907,120,7,14535,03/07/2010,20349
+Channel Partners,Germany,Paseo,Medium,1775,10,12,5325,10/07/2010,21300
+Channel Partners,Mexico,Carretera,Medium,562,3,12,1686,14/07/2010,6744
+Channel Partners,Canada,Carretera,Medium,2299,3,12,6897,14/07/2010,27588
+Government,Mexico,Paseo,High,886,10,350,230360,24/07/2010,310100
+Government,Mexico,Amarilla,Medium,1683,260,7,8415,29/07/2010,11781
+Channel Partners,Mexico,Amarilla,Medium,1123,260,12,3369,29/07/2010,13476
+Enterprise,France,Paseo,Low,2988,10,125,358560,31/07/2010,373500
+Enterprise,Canada,VTT,High,1583,250,125,189960,03/08/2010,197875
+Government,France,VTT,Low,2177,250,350,566020,04/08/2010,761950
+Midmarket,Mexico,VTT,Low,1514,250,15,15140,04/08/2010,22710
+Government,Mexico,Amarilla,Low,1865,260,350,484900,04/08/2010,652750
+Enterprise,Mexico,Paseo,High,2156,10,125,258720,04/08/2010,269500
+Government,Mexico,Paseo,High,905,10,20,9050,04/08/2010,18100
+Government,Mexico,Paseo,High,1715,10,20,17150,04/08/2010,34300
+Government,United States of America,Velo,High,986,120,350,256360,06/08/2010,345100
+Government,Mexico,Velo,High,905,120,20,9050,06/08/2010,18100
+Enterprise,Germany,Paseo,Low,809,10,125,97080,07/08/2010,101125
+Enterprise,France,Paseo,High,2441,10,125,292920,10/08/2010,305125
+Government,Germany,Paseo,High,2992,10,20,29920,10/08/2010,59840
+Government,United States of America,Velo,Low,736,120,20,7360,15/08/2010,14720
+Government,Canada,Carretera,Low,2851,3,7,14255,15/08/2010,19957
+Enterprise,Germany,Paseo,Low,1706,10,125,204720,17/08/2010,213250
+Government,France,Carretera,Medium,1563,3,20,15630,20/08/2010,31260
+Government,United States of America,Paseo,High,2641,10,20,26410,20/08/2010,52820
+Midmarket,France,Amarilla,Low,321,260,15,3210,23/08/2010,4815
+Channel Partners,United States of America,Montana,Low,1142,5,12,3426,24/08/2010,13704
+Government,France,VTT,High,1281,250,350,333060,24/08/2010,448350
+Government,Canada,Velo,Low,2646,120,20,26460,26/08/2010,52920
+Government,France,Velo,Low,2177,120,350,566020,26/08/2010,761950
+Channel Partners,France,VTT,Low,866,250,12,2598,26/08/2010,10392
+Small Business,United States of America,Velo,Medium,1372,120,300,343000,27/08/2010,411600
+Midmarket,Mexico,Carretera,None,2470,3,15,24700,28/08/2010,37050
+Government,Germany,Carretera,None,1513,3,350,393380,28/08/2010,529550
+Midmarket,United States of America,Paseo,Low,1925,10,15,19250,30/08/2010,28875
+Government,United States of America,Paseo,Low,2013,10,7,10065,30/08/2010,14091
+Small Business,Canada,VTT,Medium,2436,250,300,609000,30/08/2010,730800
+Enterprise,France,Amarilla,Medium,1988,260,125,238500,30/08/2010,248437.5
+Channel Partners,Mexico,Amarilla,High,410,260,12,1230,30/08/2010,4920
+Channel Partners,Mexico,Amarilla,Medium,1375,260,12,4125,01/09/2010,16500
+Government,Canada,Montana,High,1249,5,20,12490,06/09/2010,24980
+Midmarket,Germany,Carretera,High,1513,3,15,15130,11/09/2010,22695
+Government,Canada,VTT,None,1817,250,20,18170,19/09/2010,36340
+Enterprise,France,Paseo,Low,1287,10,125,154440,21/09/2010,160875
+Small Business,Canada,Montana,Medium,3803,5,300,950625,21/09/2010,1140750
+Government,France,Montana,Medium,1666,5,350,433160,21/09/2010,583100
+Government,Germany,Velo,None,1006,120,350,261560,23/09/2010,352100
+Channel Partners,France,Amarilla,High,1393,260,12,4179,23/09/2010,16716
+Midmarket,United States of America,Velo,High,790,120,15,7900,24/09/2010,11850
+Channel Partners,Germany,Amarilla,High,472,260,12,1416,25/09/2010,5664
+Channel Partners,Germany,Velo,High,1013,120,12,3039,29/09/2010,12156
+Enterprise,Germany,Paseo,Low,1570,10,125,188400,30/09/2010,196250
+Government,Canada,Amarilla,Medium,1135,260,7,5675,07/10/2010,7945
+Government,United States of America,Carretera,Medium,1761,3,350,457860,07/10/2010,616350
+Small Business,France,Carretera,Medium,448,3,300,112000,07/10/2010,134400
+Enterprise,France,Montana,Medium,1857,5,125,222840,10/10/2010,232125
+Government,Canada,Paseo,Low,2074,10,20,20740,11/10/2010,41480
+Channel Partners,Canada,Amarilla,High,2761,260,12,8283,11/10/2010,33132
+Midmarket,United States of America,Carretera,High,2567,3,15,25670,11/10/2010,38505
+Government,Canada,Carretera,None,1619,3,20,16185,13/10/2010,32370
+Government,United States of America,Paseo,Medium,727,10,350,189020,15/10/2010,254450
+Enterprise,Canada,Velo,Medium,952,120,125,114240,15/10/2010,119000
+Enterprise,United States of America,Velo,Medium,2755,120,125,330600,15/10/2010,344375
+Small Business,France,VTT,Medium,1221,250,300,305250,20/10/2010,366300
+Government,Mexico,VTT,Medium,1123,250,20,11230,20/10/2010,22460
+Midmarket,United States of America,Carretera,Medium,2030,3,15,20300,23/10/2010,30450
+Government,Germany,Paseo,High,357,10,350,92820,24/10/2010,124950
+Channel Partners,Germany,Paseo,High,1013,10,12,3039,24/10/2010,12156
+Government,France,Velo,High,2805,120,20,28050,26/10/2010,56100
+Midmarket,Mexico,Velo,High,655,120,15,6550,26/10/2010,9825
+Midmarket,United States of America,Amarilla,None,615,260,15,6150,07/11/2010,9225
+Midmarket,Canada,Paseo,None,2152,10,15,21520,08/11/2010,32280
+Channel Partners,Mexico,Montana,Low,690,5,12,2070,10/11/2010,8280
+Midmarket,United States of America,Paseo,Medium,3675,10,15,36750,13/11/2010,55125
+Government,Mexico,VTT,Low,1397,250,350,363220,16/11/2010,488950
+Channel Partners,Mexico,Velo,High,410,120,12,1230,17/11/2010,4920
+Small Business,Mexico,Velo,High,2605,120,300,651250,17/11/2010,781500
+Midmarket,United States of America,Paseo,Medium,2931,10,15,29310,22/11/2010,43965
+Midmarket,Mexico,Montana,None,2470,5,15,24700,23/11/2010,37050
+Enterprise,Canada,Montana,None,2666,5,125,319860,23/11/2010,333187.5
+Enterprise,Mexico,Amarilla,Low,1074,260,125,128880,23/11/2010,134250
+Government,Germany,Amarilla,Low,1907,260,350,495820,23/11/2010,667450
+Channel Partners,United States of America,Carretera,High,386,3,12,1158,23/11/2010,4632
+Enterprise,Germany,VTT,High,552,250,125,66240,23/11/2010,69000
+Government,France,Amarilla,Medium,1403,260,7,7015,24/11/2010,9821
+Government,Mexico,Carretera,Medium,521,3,7,2605,25/11/2010,3647
+Government,Germany,Paseo,High,2708,10,20,27080,02/12/2010,54160
+Government,Canada,Paseo,High,2632,10,350,684320,02/12/2010,921200
+Enterprise,Canada,Paseo,High,1583,10,125,189960,02/12/2010,197875
+Small Business,Germany,Velo,High,2536,120,300,634000,03/12/2010,760800
+Government,United States of America,Paseo,High,1177,10,350,306020,04/12/2010,411950
+Government,Canada,Velo,Low,3851,120,20,38505,05/12/2010,77010
+Midmarket,Mexico,Paseo,Low,1514,10,15,15140,07/12/2010,22710
+Government,United States of America,Paseo,Low,274,10,350,71240,07/12/2010,95900
+Channel Partners,Germany,VTT,None,2838,250,12,8514,09/12/2010,34056
+Enterprise,France,Carretera,High,1023,3,125,122760,11/12/2010,127875
+Government,Germany,Carretera,High,792,3,350,205920,14/12/2010,277200
+Government,Germany,Paseo,Medium,1934,10,20,19340,22/12/2010,38680
+Midmarket,United States of America,VTT,High,2567,250,15,25670,22/12/2010,38505
+Channel Partners,United States of America,Paseo,None,912,10,12,2736,23/12/2010,10944
+Channel Partners,France,VTT,Medium,2234,250,12,6702,24/12/2010,26808
+Midmarket,France,Montana,High,2072,5,15,20720,28/12/2010,31080
+Government,Canada,Montana,High,200,5,350,52000,30/12/2010,70000
+Government,Canada,Montana,High,388,5,7,1940,30/12/2010,2716
+Government,Germany,VTT,Medium,2338,250,7,11690,31/12/2010,16366
+Government,Germany,Paseo,None,1513,10,350,393380,01/01/2011,529550
+Government,Mexico,Velo,None,1493,120,7,7465,01/01/2011,10451
+Channel Partners,United States of America,Paseo,High,386,10,12,1158,04/01/2011,4632
+Enterprise,United States of America,Carretera,High,3446,3,125,413460,04/01/2011,430687.5
+Midmarket,Mexico,VTT,High,641,250,15,6410,08/01/2011,9615
+Enterprise,Germany,Montana,Medium,2500,5,125,300000,10/01/2011,312500
+Small Business,Canada,Paseo,Medium,1702,10,300,425500,10/01/2011,510600
+Government,Mexico,Amarilla,High,344,260,350,89440,11/01/2011,120400
+Midmarket,Mexico,Amarilla,High,2157,260,15,21570,11/01/2011,32355
+Government,United States of America,Paseo,High,380,10,7,1900,11/01/2011,2660
+Government,Mexico,Carretera,High,886,3,350,230360,11/01/2011,310100
+Government,Mexico,VTT,High,1233,250,20,12330,16/01/2011,24660
+Channel Partners,Canada,Montana,Medium,2321,5,12,6963,17/01/2011,27852
+Channel Partners,Mexico,Montana,High,604,5,12,1812,26/01/2011,7248
+Government,United States of America,VTT,Low,266,250,350,69160,27/01/2011,93100
+Government,Mexico,VTT,Low,1940,250,350,504400,27/01/2011,679000
+Small Business,Germany,Amarilla,Low,259,260,300,64750,27/01/2011,77700
+Channel Partners,Canada,Amarilla,High,3521,260,12,10561.5,28/01/2011,42246
+Government,Mexico,Amarilla,High,2039,260,20,20390,28/01/2011,40780
+Channel Partners,United States of America,VTT,High,1806,250,12,5418,31/01/2011,21672
+Small Business,United States of America,Carretera,High,1010,3,300,252500,04/02/2011,303000
+Midmarket,United States of America,Paseo,Low,671,10,15,6710,08/02/2011,10065
+Government,France,VTT,High,293,250,20,2930,10/02/2011,5860
+Small Business,United States of America,Amarilla,High,2993,260,300,748250,13/02/2011,897900
+Channel Partners,France,Paseo,High,2426,10,12,7276.5,13/02/2011,29106
+Government,Canada,Paseo,High,2394,10,20,23940,13/02/2011,47880
+Midmarket,Mexico,Velo,Medium,245,120,15,2450,17/02/2011,3675
+Small Business,Canada,Velo,Medium,3794,120,300,948375,17/02/2011,1138050
+Government,France,Paseo,High,1594,10,350,414440,07/03/2011,557900
+Government,United States of America,VTT,Medium,570,250,7,2850,08/03/2011,3990
+Small Business,Mexico,Paseo,None,788,10,300,197000,09/03/2011,236400
+Midmarket,Mexico,Paseo,None,2472,10,15,24720,09/03/2011,37080
+Government,Mexico,Paseo,High,2851,10,350,741260,10/03/2011,997850
+Enterprise,France,Amarilla,High,1433,260,125,171960,16/03/2011,179125
+Enterprise,Germany,Amarilla,Low,2276,260,125,273120,17/03/2011,284500
+Government,Germany,Amarilla,Low,2966,260,350,771160,17/03/2011,1038100
+Government,United States of America,Velo,Medium,602,120,350,156520,19/03/2011,210700
+Channel Partners,Canada,Paseo,Medium,2431,10,12,7293,23/03/2011,29172
+Government,France,Montana,None,1899,5,20,18990,24/03/2011,37980
+Government,United States of America,Carretera,Medium,1118,3,20,11175,26/03/2011,22350
+Midmarket,Canada,Carretera,Medium,2844,3,15,28440,26/03/2011,42660
+Channel Partners,Mexico,Paseo,High,571,10,12,1713,26/03/2011,6852
+Government,Canada,VTT,High,866,250,20,8655,26/03/2011,17310
+Midmarket,Germany,VTT,High,492,250,15,4920,26/03/2011,7380
+Enterprise,Germany,Paseo,Medium,3513,10,125,421560,28/03/2011,439125
+Midmarket,France,Paseo,Medium,2101,10,15,21010,28/03/2011,31515
+Channel Partners,United States of America,Amarilla,High,2015,260,12,6045,28/03/2011,24180
+Government,United States of America,Paseo,High,1439,10,7,7192.5,29/03/2011,10069.5
+Small Business,Germany,Paseo,High,807,10,300,201750,29/03/2011,242100
+Small Business,Mexico,Paseo,High,591,10,300,147750,02/04/2011,177300
+Government,United States of America,Paseo,Medium,973,10,20,9730,08/04/2011,19460
+Government,Mexico,Paseo,Medium,1038,10,20,10380,08/04/2011,20760
+Government,Germany,Paseo,Medium,360,10,7,1800,08/04/2011,2520
+Channel Partners,France,Velo,Medium,1967,120,12,5901,08/04/2011,23604
+Enterprise,Germany,Velo,Low,809,120,125,97080,10/04/2011,101125
+Enterprise,Mexico,Velo,Low,2145,120,125,257400,10/04/2011,268125
+Channel Partners,France,Velo,Low,1055,120,12,3165,10/04/2011,12660
+Government,France,Amarilla,Low,941,260,20,9410,11/04/2011,18820
+Small Business,Canada,Amarilla,Low,1916,260,300,479000,11/04/2011,574800
+Enterprise,France,Carretera,Low,4244,3,125,509220,11/04/2011,530437.5
+Channel Partners,Canada,Paseo,High,4026,10,12,12078,14/04/2011,48312
+Government,Canada,Amarilla,Medium,552,260,350,143520,15/04/2011,193200
+Government,Canada,Paseo,High,1249,10,20,12490,29/04/2011,24980
+Government,Canada,Paseo,None,1725,10,350,448500,06/05/2011,603750
+Government,United States of America,Velo,Medium,2832,120,20,28320,08/05/2011,56640
+Channel Partners,United States of America,Paseo,High,2914,10,12,8742,13/05/2011,34968
+Government,France,Paseo,High,1731,10,7,8655,13/05/2011,12117
+Government,Canada,VTT,Medium,1582,250,7,7910,14/05/2011,11074
+Government,Germany,Velo,Medium,2338,120,7,11690,16/05/2011,16366
+Enterprise,Mexico,Paseo,Low,1823,10,125,218760,17/05/2011,227875
+Midmarket,Germany,Paseo,Low,747,10,15,7470,17/05/2011,11205
+Channel Partners,Germany,Paseo,Low,766,10,12,2298,17/05/2011,9192
+Small Business,United States of America,Paseo,Low,2905,10,300,726250,17/05/2011,871500
+Government,France,Paseo,Low,2155,10,350,560300,17/05/2011,754250
+Midmarket,France,VTT,Medium,1227,250,15,12270,17/05/2011,18405
+Government,France,VTT,High,1491,250,7,7455,21/05/2011,10437
+Government,Germany,VTT,High,1531,250,20,15310,21/05/2011,30620
+Small Business,Canada,Amarilla,High,888,260,300,222000,22/05/2011,266400
+Enterprise,United States of America,Amarilla,High,2844,260,125,341280,22/05/2011,355500
+Enterprise,France,VTT,Low,1744,250,125,209280,27/05/2011,218000
+Channel Partners,United States of America,Amarilla,Low,1989,260,12,5967,27/05/2011,23868
+Small Business,France,VTT,None,2151,250,300,537750,28/05/2011,645300
+Midmarket,United States of America,Montana,None,615,5,15,6150,30/05/2011,9225
+Government,France,Paseo,Medium,1535,10,20,15350,30/05/2011,30700
+Enterprise,Canada,Amarilla,Medium,1645,260,125,197400,02/06/2011,205625
+Enterprise,Canada,Velo,Medium,567,120,125,68040,03/06/2011,70875
+Government,Canada,Paseo,Medium,1228,10,350,319280,04/06/2011,429800
+Enterprise,Germany,VTT,Low,1570,250,125,188400,07/06/2011,196250
+Small Business,Canada,VTT,Low,1874,250,300,468500,07/06/2011,562200
+Government,Mexico,VTT,Low,1642,250,350,426920,07/06/2011,574700
+Enterprise,Germany,Carretera,Medium,887,3,125,106440,09/06/2011,110875
+Government,Canada,Montana,Medium,1611,5,7,8055,09/06/2011,11277
+Enterprise,United States of America,Montana,Medium,2797,5,125,335640,09/06/2011,349625
+Small Business,Germany,Montana,Medium,334,5,300,83500,09/06/2011,100200
+Midmarket,Canada,VTT,High,1565,250,15,15650,13/06/2011,23475
+Midmarket,Germany,Montana,None,921,5,15,9210,17/06/2011,13815
+Channel Partners,Canada,Montana,None,2518,5,12,7554,17/06/2011,30216
+Enterprise,Mexico,Amarilla,High,947,260,125,113640,18/06/2011,118375
+Government,United States of America,VTT,Low,349,250,350,90740,20/06/2011,122150
+Channel Partners,Germany,Montana,Medium,2342,5,12,7026,20/06/2011,28104
+Government,Germany,Carretera,High,442,3,20,4420,20/06/2011,8840
+Government,United States of America,Amarilla,Medium,727,260,350,189020,21/06/2011,254450
+Government,United States of America,Montana,Low,1566,5,20,15660,04/07/2011,31320
+Government,Germany,Amarilla,None,1686,260,7,8430,08/07/2011,11802
+Midmarket,Germany,Carretera,None,888,3,15,8880,10/07/2011,13320
+Government,Mexico,Velo,Medium,1498,120,7,7490,11/07/2011,10486
+Channel Partners,Germany,Velo,None,1545,120,12,4635,19/07/2011,18540
+Government,Germany,Paseo,Medium,1095,10,7,5475,21/07/2011,7665
+Channel Partners,France,Amarilla,Medium,306,260,12,918,21/07/2011,3672
+Midmarket,Germany,Velo,Medium,1530,120,15,15300,23/07/2011,22950
+Government,France,Velo,Medium,1496,120,350,388960,23/07/2011,523600
+Government,Mexico,Montana,High,1727,5,7,8635,25/07/2011,12089
+Midmarket,Mexico,Paseo,High,1984,10,15,19840,30/07/2011,29760
+Midmarket,United States of America,Paseo,Medium,2198,10,15,21980,31/07/2011,32970
+Midmarket,Germany,Paseo,Medium,1743,10,15,17430,31/07/2011,26145
+Government,Canada,Montana,Low,1830,5,7,9150,07/08/2011,12810
+Channel Partners,Mexico,Montana,High,2661,5,12,7983,07/08/2011,31932
+Government,Germany,Paseo,High,1531,10,20,15310,07/08/2011,30620
+Government,France,Montana,Medium,1385,5,350,359970,08/08/2011,484575
+Enterprise,United States of America,Montana,Medium,3627,5,125,435240,08/08/2011,453375
+Government,Canada,Amarilla,Low,1778,260,350,462280,10/08/2011,622300
+Government,Germany,Montana,Medium,1159,5,7,5795,10/08/2011,8113
+Government,France,Amarilla,Medium,2876,260,350,747760,10/08/2011,1006600
+Enterprise,Germany,Amarilla,Medium,994,260,125,119280,10/08/2011,124250
+Government,Canada,Amarilla,Medium,1118,260,20,11180,10/08/2011,22360
+Small Business,United States of America,Amarilla,Medium,1372,260,300,343000,10/08/2011,411600
+Enterprise,United States of America,Paseo,Medium,861,10,125,103320,12/08/2011,107625
+Enterprise,France,Paseo,Medium,704,10,125,84480,12/08/2011,88000
+Government,Germany,VTT,Low,263,250,7,1315,13/08/2011,1841
+Government,Canada,VTT,Low,944,250,350,245310,16/08/2011,330225
+Enterprise,United States of America,VTT,Low,727,250,125,87240,16/08/2011,90875
+Enterprise,France,VTT,Low,787,250,125,94440,16/08/2011,98375
+Enterprise,Canada,Carretera,Low,743,3,125,89100,19/08/2011,92812.5
+Channel Partners,Mexico,Carretera,Medium,367,3,12,1101,25/08/2011,4404
+Government,Germany,Montana,High,2992,5,20,29920,25/08/2011,59840
+Midmarket,United States of America,Paseo,Low,1514,10,15,15140,28/08/2011,22710
+Government,France,Amarilla,None,2750,260,350,715000,31/08/2011,962500
+Channel Partners,United States of America,Amarilla,None,1953,260,12,5859,31/08/2011,23436
+Enterprise,Germany,Amarilla,None,4220,260,125,506340,31/08/2011,527437.5
+Government,France,Amarilla,None,1899,260,20,18990,31/08/2011,37980
+Midmarket,Germany,Paseo,Medium,2116,10,15,21160,02/09/2011,31740
+Midmarket,United States of America,Velo,Medium,555,120,15,5550,02/09/2011,8325
+Government,Canada,Paseo,High,2105,10,350,547170,02/09/2011,736575
+Midmarket,Mexico,Paseo,Low,2031,10,15,20310,05/09/2011,30465
+Government,Germany,Velo,Low,2877,120,350,748020,10/09/2011,1006950
+Channel Partners,Mexico,Paseo,Medium,367,10,12,1101,12/09/2011,4404
+Small Business,United States of America,Velo,High,2460,120,300,615000,13/09/2011,738000
+Small Business,Canada,Velo,High,269,120,300,67250,13/09/2011,80700
+Midmarket,Germany,Paseo,Low,1945,10,15,19450,14/09/2011,29175
+Channel Partners,Canada,VTT,High,2109,250,12,6327,15/09/2011,25308
+Government,United States of America,Carretera,Low,274,3,350,71240,17/09/2011,95900
+Government,Germany,Paseo,Medium,1259,10,7,6295,22/09/2011,8813
+Enterprise,Germany,Carretera,High,2767,3,125,332040,22/09/2011,345875
+Enterprise,Germany,Carretera,High,1085,3,125,130200,22/09/2011,135625
+Enterprise,France,Carretera,High,1174,3,125,140880,26/09/2011,146750
+Government,United States of America,Paseo,Low,4493,10,7,22462.5,29/09/2011,31447.5
+Enterprise,United States of America,Paseo,Low,727,10,125,87240,29/09/2011,90875
+Government,United States of America,Amarilla,Medium,2071,260,350,538460,03/10/2011,724850
+Government,Canada,Amarilla,Medium,1269,260,350,329940,03/10/2011,444150
+Government,Mexico,Velo,Low,544,120,20,5440,09/10/2011,10880
+Channel Partners,Mexico,Velo,Low,1084,120,12,3252,09/10/2011,13008
+Enterprise,France,Velo,None,1804,120,125,216480,10/10/2011,225500
+Channel Partners,Germany,Velo,None,2161,120,12,6483,10/10/2011,25932
+Government,Mexico,Velo,Low,362,120,7,1810,10/10/2011,2534
+Channel Partners,Canada,Paseo,Low,1295,10,12,3885,15/10/2011,15540
+Channel Partners,Mexico,Carretera,Medium,727,3,12,2181,17/10/2011,8724
+Small Business,Germany,Paseo,High,1359,10,300,339750,20/10/2011,407700
+Midmarket,Canada,Montana,Low,1967,5,15,19670,22/10/2011,29505
+Enterprise,Canada,Velo,High,1916,120,125,229920,27/10/2011,239500
+Government,Germany,Carretera,Medium,663,3,20,6630,05/11/2011,13260
+Government,Canada,Carretera,Medium,819,3,7,4095,05/11/2011,5733
+Government,United States of America,VTT,Medium,1265,250,20,12650,10/11/2011,25300
+Government,Canada,VTT,Low,1326,250,7,6630,12/11/2011,9282
+Channel Partners,United States of America,Carretera,Low,1858,3,12,5574,12/11/2011,22296
+Midmarket,Mexico,Montana,Low,2214,5,15,22140,16/11/2011,33210
+Small Business,United States of America,Montana,Low,2301,5,300,575250,16/11/2011,690300
+Government,France,Montana,Low,1376,5,20,13755,16/11/2011,27510
+Channel Partners,Canada,Velo,Medium,2431,120,12,7293,19/11/2011,29172
+Government,Germany,Velo,Medium,1307,120,350,339820,19/11/2011,457450
+Government,Canada,Amarilla,Medium,1228,260,350,319280,25/11/2011,429800
+Small Business,Germany,Amarilla,Medium,1250,260,300,312500,25/11/2011,375000
+Government,Mexico,Velo,High,1395,120,350,362700,04/12/2011,488250
+Government,Canada,Paseo,High,700,10,350,182000,07/12/2011,245000
+Channel Partners,Canada,Paseo,High,2222,10,12,6666,07/12/2011,26664
+Government,United States of America,VTT,Medium,1352,250,350,351390,16/12/2011,473025
+Government,Mexico,VTT,High,2903,250,7,14515,18/12/2011,20321
+Small Business,United States of America,VTT,High,2541,250,300,635250,18/12/2011,762300
+Small Business,Canada,VTT,High,269,250,300,67250,18/12/2011,80700
+Channel Partners,United States of America,Paseo,Low,1142,10,12,3426,24/12/2011,13704
+Enterprise,Canada,VTT,High,2529,250,125,303480,30/12/2011,316125
+Government,Germany,VTT,High,1870,250,350,486200,30/12/2011,654500
+Enterprise,United States of America,Amarilla,High,579,260,125,69480,30/12/2011,72375
+Midmarket,France,Paseo,Low,2296,10,15,22960,31/12/2011,34440
+Government,United States of America,VTT,Medium,2663,250,20,26630,02/01/2012,53260
+Channel Partners,Canada,Carretera,Low,1295,3,12,3885,03/01/2012,15540
+Government,United States of America,Amarilla,None,1143,260,7,5715,08/01/2012,8001
+Small Business,Germany,VTT,Low,214,250,300,53500,08/01/2012,64200
+Enterprise,Mexico,VTT,Medium,877,250,125,105240,11/01/2012,109625
+Government,Mexico,Carretera,Low,1210,3,350,314600,20/01/2012,423500
+Government,United States of America,Amarilla,High,270,260,350,70200,20/01/2012,94500
+Government,France,Amarilla,High,3422,260,7,17107.5,20/01/2012,23950.5
+Midmarket,Mexico,Velo,Medium,2861,120,15,28610,07/02/2012,42915
+Enterprise,Germany,Velo,Medium,807,120,125,96840,07/02/2012,100875
+Government,United States of America,Paseo,Medium,2327,10,7,11635,08/02/2012,16289
+Government,United States of America,VTT,High,267,250,20,2670,10/02/2012,5340
+Midmarket,Mexico,Paseo,None,974,10,15,9740,14/02/2012,14610
+Channel Partners,Canada,Paseo,None,2518,10,12,7554,14/02/2012,30216
+Channel Partners,Canada,Velo,Medium,598,120,12,1794,14/02/2012,7176
+Government,Canada,Paseo,Medium,257,10,7,1285,17/02/2012,1799
+Government,United States of America,Amarilla,Medium,1282,260,20,12820,23/02/2012,25640
+Enterprise,Mexico,Carretera,Medium,1540,3,125,184800,23/02/2012,192500
+Midmarket,France,Carretera,Medium,490,3,15,4900,23/02/2012,7350
+Government,Canada,Paseo,Medium,1389,10,20,13890,02/03/2012,27780
+Channel Partners,France,Carretera,Medium,1865,3,12,5595,03/03/2012,22380
+Channel Partners,Germany,Carretera,Medium,1116,3,12,3348,03/03/2012,13392
+Government,Mexico,Montana,High,1715,5,20,17150,06/03/2012,34300
+Government,Germany,VTT,Medium,360,250,7,1800,10/03/2012,2520
+Channel Partners,United States of America,Velo,Low,1465,120,12,4395,12/03/2012,17580
+Enterprise,Germany,Paseo,Low,795,10,125,95400,15/03/2012,99375
+Midmarket,United States of America,Amarilla,High,2548,260,15,25480,15/03/2012,38220
+Government,France,Carretera,High,2522,3,20,25215,15/03/2012,50430
+Government,France,Carretera,Low,2145,3,7,10725,17/03/2012,15015
+Enterprise,Mexico,Paseo,Low,662,10,125,79440,23/03/2012,82750
+Government,France,VTT,Medium,575,250,350,149370,07/04/2012,201075
+Channel Partners,Canada,Carretera,Low,908,3,12,2724,09/04/2012,10896
+Government,Germany,Montana,Low,1958,5,7,9790,09/04/2012,13706
+Midmarket,Germany,Velo,High,681,120,15,6810,11/04/2012,10215
+Midmarket,Canada,Paseo,High,1743,10,15,17430,14/04/2012,26145
+Government,Germany,Paseo,None,1006,10,350,261560,15/04/2012,352100
+Channel Partners,Germany,Paseo,None,367,10,12,1101,15/04/2012,4404
+Government,Germany,VTT,Medium,2297,250,20,22970,15/04/2012,45940
+Small Business,Canada,VTT,Medium,2134,250,300,533500,15/04/2012,640200
+Small Business,United States of America,VTT,Medium,808,250,300,202000,15/04/2012,242400
+Government,France,Paseo,High,2532,10,7,12660,22/04/2012,17724
+Midmarket,France,Paseo,Medium,3801,10,15,38010,25/04/2012,57015
+Government,France,Amarilla,Medium,2076,260,350,539760,27/04/2012,726600
+Midmarket,Germany,VTT,None,888,250,15,8880,02/05/2012,13320
+Enterprise,France,Paseo,Low,787,10,125,94440,04/05/2012,98375
+Government,France,Paseo,Medium,1496,10,350,388960,11/05/2012,523600
+Channel Partners,Canada,Paseo,Medium,2299,10,12,6897,11/05/2012,27588
+Government,Germany,Amarilla,Medium,1159,260,7,5795,12/05/2012,8113
+Small Business,Germany,Paseo,Medium,1123,10,300,280750,13/05/2012,336900
+Channel Partners,United States of America,Carretera,Low,1947,3,12,5841,16/05/2012,23364
+Channel Partners,Mexico,Velo,High,500,120,12,1500,20/05/2012,6000
+Government,France,Velo,Medium,1976,120,20,19760,21/05/2012,39520
+Government,Mexico,Velo,High,344,120,350,89440,26/05/2012,120400
+Government,Canada,Velo,High,1808,120,7,9040,26/05/2012,12656
+Channel Partners,France,VTT,High,1734,250,12,5202,26/05/2012,20808
+Government,United States of America,Amarilla,Low,1236,260,20,12360,06/06/2012,24720
+Small Business,Mexico,Montana,None,958,5,300,239500,08/06/2012,287400
+Government,Germany,Montana,None,2146,5,7,10730,08/06/2012,15022
+Midmarket,Germany,Amarilla,Medium,711,260,15,7110,11/06/2012,10665
+Channel Partners,France,Carretera,Low,2671,3,12,8013,12/06/2012,32052
+Small Business,Mexico,Paseo,Medium,2565,10,300,641250,26/06/2012,769500
+Enterprise,Canada,Paseo,Low,1774,10,125,212880,27/06/2012,221750
+Channel Partners,France,Paseo,Low,1901,10,12,5703,27/06/2012,22812
+Small Business,Germany,Paseo,Low,689,10,300,172250,27/06/2012,206700
+Government,Canada,Paseo,Medium,2349,10,7,11745,28/06/2012,16443
+Government,Mexico,Paseo,Medium,2689,10,7,13445,28/06/2012,18823
+Midmarket,Canada,Amarilla,High,1743,260,15,17430,28/06/2012,26145
+Channel Partners,United States of America,Amarilla,High,2914,260,12,8742,28/06/2012,34968
+Government,France,Carretera,Medium,2487,3,7,12435,29/06/2012,17409
+Government,Mexico,Carretera,High,2706,3,7,13530,29/06/2012,18942
+Government,Mexico,Paseo,High,2151,10,350,559260,29/06/2012,752850
+Channel Partners,United States of America,Paseo,High,914,10,12,2742,29/06/2012,10968
+Small Business,France,Montana,Medium,322,5,300,80500,30/06/2012,96600
+Small Business,United States of America,VTT,Medium,1867,250,300,466750,03/07/2012,560100
+Midmarket,Germany,Paseo,High,278,10,15,2780,07/07/2012,4170
+Enterprise,France,Velo,Medium,704,120,125,84480,09/07/2012,88000
+Government,United States of America,VTT,High,2807,250,350,729820,09/07/2012,982450
+Small Business,Mexico,VTT,High,432,250,300,108000,09/07/2012,129600
+Small Business,United States of America,VTT,High,2294,250,300,573500,09/07/2012,688200
+Channel Partners,France,Paseo,High,1198,10,12,3594,16/07/2012,14376
+Channel Partners,Canada,Carretera,Low,1445,3,12,4335,21/07/2012,17340
+Enterprise,United States of America,Carretera,Low,330,3,125,39600,21/07/2012,41250
+Small Business,France,Amarilla,High,853,260,300,213250,29/07/2012,255900
+Channel Partners,France,Carretera,High,1198,3,12,3594,29/07/2012,14376
+Enterprise,Canada,Montana,None,345,5,125,41400,04/08/2012,43125
+Government,United States of America,Paseo,None,1143,10,7,5715,04/08/2012,8001
+Channel Partners,France,Montana,Low,1901,5,12,5703,05/08/2012,22812
+Government,France,Montana,High,293,5,7,1465,07/08/2012,2051
+Small Business,Mexico,Amarilla,Medium,635,260,300,158750,09/08/2012,190500
+Small Business,Canada,VTT,High,1496,250,300,374000,09/08/2012,448800
+Small Business,United States of America,VTT,High,1010,250,300,252500,09/08/2012,303000
+Midmarket,Canada,Paseo,High,2559,10,15,25590,11/08/2012,38385
+Government,United States of America,Paseo,High,267,10,20,2670,11/08/2012,5340
+Enterprise,Germany,Paseo,High,1085,10,125,130200,11/08/2012,135625
+Midmarket,Germany,Paseo,High,1175,10,15,11750,11/08/2012,17625
+Government,Germany,Velo,Medium,588,120,20,5880,17/08/2012,11760
+Channel Partners,Canada,VTT,Medium,3245,250,12,9733.5,17/08/2012,38934
+Government,United States of America,Montana,High,983,5,350,255450,22/08/2012,343875
+Government,United States of America,Montana,High,1298,5,7,6490,22/08/2012,9086
+Channel Partners,Mexico,VTT,Low,1916,250,12,5748,28/08/2012,22992
+Government,France,Montana,Medium,1757,5,20,17570,28/08/2012,35140
+Small Business,Germany,VTT,Medium,2659,250,300,664750,30/08/2012,797700
+Government,Germany,Paseo,Medium,2125,10,7,10625,01/09/2012,14875
+Government,Mexico,Montana,High,1368,5,7,6840,05/09/2012,9576
+Government,Canada,Paseo,High,723,10,7,3615,05/09/2012,5061
+Channel Partners,Germany,Amarilla,High,2574,260,12,7722,08/09/2012,30888
+Government,Canada,Amarilla,High,707,260,350,183820,08/09/2012,247450
+Enterprise,Mexico,VTT,High,554,250,125,66480,10/09/2012,69250
+Government,Canada,VTT,High,2935,250,20,29350,10/09/2012,58700
+Enterprise,Germany,Amarilla,High,3165,260,125,379800,10/09/2012,395625
+Government,Mexico,Amarilla,High,2629,260,20,26290,10/09/2012,52580
+Government,Germany,Paseo,Medium,2409,10,7,12045,12/09/2012,16863
+Small Business,France,Velo,Medium,1221,120,300,305250,16/09/2012,366300
+Government,France,Velo,Medium,2076,120,350,539760,16/09/2012,726600
+Small Business,France,Paseo,Low,918,10,300,229500,19/09/2012,275400
+Small Business,Germany,Paseo,Low,1728,10,300,432000,19/09/2012,518400
+Midmarket,Canada,Velo,High,384,120,15,3840,22/09/2012,5760
+Government,Germany,Carretera,None,1321,3,20,13210,01/10/2012,26420
+Midmarket,France,Carretera,None,2178,3,15,21780,01/10/2012,32670
+Midmarket,United States of America,Paseo,Medium,1153,10,15,11530,06/10/2012,17295
+Government,France,Paseo,Medium,1757,10,20,17570,06/10/2012,35140
+Enterprise,Canada,Velo,Low,923,120,125,110760,07/10/2012,115375
+Enterprise,United States of America,Velo,Low,663,120,125,79560,07/10/2012,82875
+Government,Canada,Velo,Low,2092,120,7,10460,07/10/2012,14644
+Midmarket,France,VTT,None,2178,250,15,21780,08/10/2012,32670
+Government,France,Paseo,High,1954,10,20,19540,10/10/2012,39080
+Government,Canada,Paseo,None,1817,10,20,18170,21/10/2012,36340
+Enterprise,Mexico,VTT,Low,662,250,125,79440,23/10/2012,82750
+Small Business,Germany,Carretera,High,2811,3,300,702750,25/10/2012,843300
+Midmarket,Mexico,Carretera,Medium,2791,3,15,27910,29/10/2012,41865
+Channel Partners,Germany,Amarilla,High,1770,260,12,5310,30/10/2012,21240
+Government,Mexico,Carretera,High,2579,3,20,25790,30/10/2012,51580
+Government,Mexico,Paseo,High,260,10,20,2600,31/10/2012,5200
+Midmarket,Canada,Amarilla,Medium,1631,260,15,16305,01/11/2012,24457.5
+Government,Germany,Carretera,Low,2580,3,20,25800,06/11/2012,51600
+Small Business,Germany,Carretera,Low,689,3,300,172250,06/11/2012,206700
+Small Business,France,VTT,Medium,959,250,300,239750,09/11/2012,287700
+Small Business,Mexico,VTT,Medium,2747,250,300,686750,09/11/2012,824100
+Small Business,United States of America,Velo,High,2294,120,300,573500,11/11/2012,688200
+Government,Germany,Velo,High,241,120,20,2410,11/11/2012,4820
+Government,Germany,Velo,High,2665,120,7,13325,11/11/2012,18655
+Government,Germany,Velo,Low,2966,120,350,771160,15/11/2012,1038100
+Channel Partners,France,Amarilla,High,2475,260,12,7425,18/11/2012,29700
+Channel Partners,Canada,Carretera,High,1937,3,12,5811,19/11/2012,23244
+Small Business,France,Montana,Medium,1562,5,300,390500,21/11/2012,468600
+Small Business,Canada,Montana,Medium,1283,5,300,320750,21/11/2012,384900
+Midmarket,Germany,Montana,Medium,711,5,15,7110,21/11/2012,10665
+Government,Mexico,Montana,Medium,980,5,350,254800,23/11/2012,343000
+Government,Germany,Montana,Medium,1460,5,350,379600,23/11/2012,511000
+Government,France,Montana,Medium,1403,5,7,7015,23/11/2012,9821
+Government,Mexico,VTT,Medium,2689,250,7,13445,26/11/2012,18823
+Small Business,Germany,Carretera,Low,214,3,300,53500,29/11/2012,64200
+Government,Mexico,Montana,High,2255,5,20,22550,03/12/2012,45100
+Government,Germany,Paseo,Medium,2146,10,350,557960,21/12/2012,751100
+Government,Mexico,Paseo,Medium,1946,10,7,9730,21/12/2012,13622
+Government,Mexico,Paseo,Medium,1362,10,350,354120,21/12/2012,476700
